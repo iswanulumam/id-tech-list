@@ -11,20 +11,33 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 > **Note**
 > Banks and non-tech companies are intentionally omitted from the list.
 
-## DECACORN
+| Level       | Headcount |
+| ----------- | --------- |
+| Established | 900+      |
+| Medium      | 300~900   |
+| Small       | 30~300    |
 
-- J&T Express
+## ESTABLISHED START-UP COMPANY
+
+- Ajaib
+- Bukalapak
+- Blibli
+- Dana
 - GOTO (Tokopedia & Gojek)
 - Gram `sg company`
-
-## UNICORN
-
-- Bukalapak
-- Traveloka
+- J&T Express
 - OVO
-- Akulaku
-- Dana
-- Xendit
-- Ajaib
-- Kopi Kenangan
+- Traveloka
 - Tiket.com
+- Xendit
+
+## MEDIUM START-UP COMPANY (300~900 headcount)
+
+- Akulaku
+- Kopi Kenangan
+
+## SMALL START-UP COMPANY (30~300 headcount)
+
+## ESTABLISHED IT CONSULTANT COMPANY (900+ headcount)
+
+## MEDIUM IT CONSULTANT COMPANY
