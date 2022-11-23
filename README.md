@@ -14,9 +14,12 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 | Medium      | 300~900   |
 | Small       | 30~300    |
 
-## ESTABLISHED START-UP COMPANY
+## ESTABLISHED START-UP
 
-- Ajaib
+| Company | Headcount | Website              | Linkedin                      | Career Page                          |
+| ------- | --------- | -------------------- | ----------------------------- | ------------------------------------ |
+| Ajaib   | 900+      | https://ajaib.co.id/ | [Ajaib](https://ajaib.co.id/) | [Ajaib](https://career.ajaib.co.id/) |
+
 - Bukalapak
 - Blibli
 - Dana
@@ -28,17 +31,17 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 - Tiket.com
 - Xendit
 
-## MEDIUM START-UP COMPANY
+## MEDIUM START-UP
 
 - Akulaku
 - Kopi Kenangan
 
-## SMALL START-UP COMPANY
+## SMALL START-UP
 
-## ESTABLISHED IT CONSULTANT COMPANY
+## ESTABLISHED IT CONSULTANT
 
-## MEDIUM IT CONSULTANT COMPANY
+## MEDIUM IT CONSULTANT
 
-## SMALL IT CONSULTANT COMPANY
+## SMALL IT CONSULTANT
 
-## BANK AND NON-TECH COMPANY
+## BANK AND NON-TECH
