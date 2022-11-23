@@ -11,13 +11,13 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 > **Note**
 > Banks and non-tech companies are intentionally omitted from the list.
 
-## DECACORD
+## DECACORN
 
 - J&T Express
 - GOTO (Tokopedia & Gojek)
 - Gram `sg company`
 
-## UNICORD
+## UNICORN
 
 - Bukalapak
 - Traveloka
