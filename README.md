@@ -8,9 +8,6 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 > **Warning**
 > The list is not meant to be exhaustive. I am not affiliated to any companies listed.
 
-> **Note**
-> Banks and non-tech companies are intentionally omitted from the list.
-
 | Level       | Headcount |
 | ----------- | --------- |
 | Established | 900+      |
@@ -31,13 +28,17 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 - Tiket.com
 - Xendit
 
-## MEDIUM START-UP COMPANY (300~900 headcount)
+## MEDIUM START-UP COMPANY
 
 - Akulaku
 - Kopi Kenangan
 
-## SMALL START-UP COMPANY (30~300 headcount)
+## SMALL START-UP COMPANY
 
-## ESTABLISHED IT CONSULTANT COMPANY (900+ headcount)
+## ESTABLISHED IT CONSULTANT COMPANY
 
 ## MEDIUM IT CONSULTANT COMPANY
+
+## SMALL IT CONSULTANT COMPANY
+
+## BANK AND NON-TECH COMPANY
