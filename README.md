@@ -15,6 +15,7 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 
 - J&T Express
 - GOTO (Tokopedia & Gojek)
+- Gram `sg company`
 
 ## UNICORD
 
