@@ -24,4 +24,4 @@ Dana
 Xendit
 Ajaib
 Kopi Kenangan
-Tiket
+Tiket.com
