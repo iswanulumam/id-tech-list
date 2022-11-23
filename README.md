@@ -16,12 +16,12 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 
 ## ESTABLISHED START-UP
 
-| Company | Headcount | Website              | Linkedin                      | Career Page                          |
-| ------- | --------- | -------------------- | ----------------------------- | ------------------------------------ |
-| Ajaib   | 900+      | https://ajaib.co.id/ | [Ajaib](https://ajaib.co.id/) | [Ajaib](https://career.ajaib.co.id/) |
+| Company   | Category   | Headcount | Website                    | Linkedin                                                        | Career Page                                 |
+| --------- | ---------- | --------- | -------------------------- | --------------------------------------------------------------- | ------------------------------------------- |
+| Ajaib     | Investment | 500+      | https://ajaib.co.id/       | [Ajaib](https://www.linkedin.com/company/ajaib-id/)             | [Ajaib](https://career.ajaib.co.id/)        |
+| Bukalapak | E-commerce | 2800+     | https://www.bukalapak.com/ | [Bukalapak](https://www.linkedin.com/company/pt-bukalapak-com/) | [Bukalapak](https://careers.bukalapak.com/) |
+| Blibli    | E-commerce | 3300+     | https://www.blibli.com/    | [Blibli](https://www.linkedin.com/company/blibli/)              | [Blibli](https://careers.blibli.com/)       |
 
-- Bukalapak
-- Blibli
 - Dana
 - GOTO (Tokopedia & Gojek)
 - Gram `sg company`
