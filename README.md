@@ -16,13 +16,14 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 
 ## ESTABLISHED START-UP
 
-| Company   | Category   | Headcount | Website                    | Linkedin                                                        | Career Page                                 |
-| --------- | ---------- | --------- | -------------------------- | --------------------------------------------------------------- | ------------------------------------------- |
-| Ajaib     | Investment | 500+      | https://ajaib.co.id/       | [Ajaib](https://www.linkedin.com/company/ajaib-id/)             | [Ajaib](https://career.ajaib.co.id/)        |
-| Bukalapak | E-commerce | 2800+     | https://www.bukalapak.com/ | [Bukalapak](https://www.linkedin.com/company/pt-bukalapak-com/) | [Bukalapak](https://careers.bukalapak.com/) |
-| Blibli    | E-commerce | 3300+     | https://www.blibli.com/    | [Blibli](https://www.linkedin.com/company/blibli/)              | [Blibli](https://careers.blibli.com/)       |
+| Company   | Category   | Headcount | Website                    | Linkedin                                                        | Career Page                                    |
+| --------- | ---------- | --------- | -------------------------- | --------------------------------------------------------------- | ---------------------------------------------- |
+| Ajaib     | Investment | 500+      | https://ajaib.co.id/       | [Ajaib](https://www.linkedin.com/company/ajaib-id/)             | [Ajaib](https://career.ajaib.co.id/)           |
+| Bukalapak | E-commerce | 2800+     | https://www.bukalapak.com/ | [Bukalapak](https://www.linkedin.com/company/pt-bukalapak-com/) | [Bukalapak](https://careers.bukalapak.com/)    |
+| Blibli    | E-commerce | 3300+     | https://www.blibli.com/    | [Blibli](https://www.linkedin.com/company/blibli/)              | [Blibli](https://careers.blibli.com/)          |
+| Dana      | Fintech    | 1200+     | https://www.dana.id/       | [Dana](https://www.linkedin.com/company/dana-indonesia/)        | [Dana](https://www.dana.id/career)             |
+| Tokopedia | E-commerce | 8400+     | https://www.tokopedia.com/ | [Tokopedia](https://www.linkedin.com/company/pt--tokopedia/)    | [Tokopedia](https://www.tokopedia.com/careers) |
 
-- Dana
 - GOTO (Tokopedia & Gojek)
 - Gram `sg company`
 - J&T Express
