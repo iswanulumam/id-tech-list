@@ -34,18 +34,18 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 
 ## MEDIUM START-UP
 
-| Company       | Category | Headcount | Website | Linkedin | Career Page |
-| ------------- | -------- | --------- | ------- | -------- | ----------- |
-| Akulaku       | -        | -         | -       | [-](-)   | [-]()       |
-| HappyFresh    | -        | -         | -       | [-](-)   | [-]()       |
-| HarukaEdu     | -        | -         | -       | [-](-)   | [-]()       |
-| Kopi Kenangan | -        | -         | -       | [-](-)   | [-]()       |
-| Koinworks     | -        | -         | -       | [-](-)   | [-]()       |
-| Evormos       | -        | -         | -       | [-](-)   | [-]()       |
-| Mekari        | -        | -         | -       | [-](-)   | [-]()       |
-| Modalku       | -        | -         | -       | [-](-)   | [-]()       |
-| SayurBox      | -        | -         | -       | [-](-)   | [-]()       |
-| -             | -        | -         | -       | [-](-)   | [-]()       |
+| Company       | Category | Headcount | Website                  | Linkedin                                                      | Career Page |
+| ------------- | -------- | --------- | ------------------------ | ------------------------------------------------------------- | ----------- |
+| Akulaku       | Fintech  | 700+      | https://www.akulaku.com/ | [Akulaku](https://www.linkedin.com/company/akulakuindonesia/) | [-]()       |
+| HappyFresh    | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| HarukaEdu     | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| Kopi Kenangan | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| Koinworks     | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| Evormos       | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| Mekari        | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| Modalku       | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| SayurBox      | -        | -         | -                        | [-](-)                                                        | [-]()       |
+| -             | -        | -         | -                        | [-](-)                                                        | [-]()       |
 
 ## SMALL START-UP
 
