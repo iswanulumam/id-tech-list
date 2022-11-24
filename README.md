@@ -26,15 +26,20 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 | Bibit                 | -            | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Dana                  | Fintech      | 1200+     | https://www.dana.id/             | [Dana](https://www.linkedin.com/company/dana-indonesia/)                             | [Dana](https://www.dana.id/career)                   |
 | eFishery              | -            | -         | -                                | [-](-)                                                                               | [-]()                                                |
-| Tokopedia             | Ecommerce    | 8400+     | https://www.tokopedia.com/       | [Tokopedia](https://www.linkedin.com/company/pt--tokopedia/)                         | [Tokopedia](https://www.tokopedia.com/careers)       |
 | Gojek                 | Ride Hailing | 25000+    | https://www.gojek.com/en-id/     | [Gojek](https://www.linkedin.com/company/gojek/)                                     | [Gojek](https://career.gojek.com/)                   |
 | Home Credit Indonesia | -            | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Halodoc               | Health Care  | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Harian Kompas         | Publishing   | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| IDN Media             | Media        | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | J&T Express           | Logistics    | 6000+     | https://www.jet.co.id/           | [J&T Express](https://www.linkedin.com/company/pt--global-jet-express-j&t-express-/) | [J&T Express](https://jet.co.id/about/career)        |
+| kumparan              | Media        | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| kumparan              | Media        | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | majoo Indonesia       | -            | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | OVO                   | Fintech      | 1500+     | https://www.ovo.id/              | [OVO](https://www.linkedin.com/company/visionetinternasional/)                       | [OVO](https://www.ovo.id/career)                     |
 | Shopee                | Fintech      | 54000+    | https://shopee.co.id/            | [Shopee](https://www.linkedin.com/company/shopee/)                                   | [Shopee](https://careers.shopee.co.id/)              |
 | Stockbit              | -            | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Traveloka             | Travel       | 3100+     | https://www.traveloka.com/en-id/ | [Traveloka](https://www.linkedin.com/company/traveloka/)                             | [Traveloka](https://www.traveloka.com/en-id/careers) |
+| Tokopedia             | Ecommerce    | 8400+     | https://www.tokopedia.com/       | [Tokopedia](https://www.linkedin.com/company/pt--tokopedia/)                         | [Tokopedia](https://www.tokopedia.com/careers)       |
 | Tiket                 | Travel       | 1700+     | https://www.tiket.com/           | [Tiket](https://www.linkedin.com/company/pt-global-tiket-network/)                   | [Tiket](https://careers.tiket.com/)                  |
 | Xendit                | Fintech      | 800+      | https://www.xendit.co/id/        | [Xendit](https://www.linkedin.com/company/xendit/)                                   | [Xendit](https://www.xendit.co/en/careers/)          |
 | -                     | -            | -         | -                                | [-](-)                                                                               | [-]()                                                |
@@ -70,16 +75,18 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 | CLS System          | -        | -         | -       | [-](-)   | [-]()       |
 | Farmacare.id        | -        | -         | -       | [-](-)   | [-]()       |
 | Sinbad              | -        | -         | -       | [-](-)   | [-]()       |
+| SiapDOK             | -        | -         | -       | [-](-)   | [-]()       |
 | Telukunjuk          | -        | -         | -       | [-](-)   | [-]()       |
 | Transfez            | -        | -         | -       | [-](-)   | [-]()       |
 | Pro Sigmaka Mandiri | -        | -         | -       | [-](-)   | [-]()       |
 
 ## BIG IT CONSULTANT
 
-| Company | Category | Headcount | Website | Linkedin | Career Page |
-| ------- | -------- | --------- | ------- | -------- | ----------- |
-| AGIT    | -        | -         | -       | [-](-)   | [-]()       |
-| DIKA    | -        | -         | -       | [-](-)   | [-]()       |
+| Company                     | Category | Headcount | Website | Linkedin | Career Page |
+| --------------------------- | -------- | --------- | ------- | -------- | ----------- |
+| AGIT                        | -        | -         | -       | [-](-)   | [-]()       |
+| DIKA                        | -        | -         | -       | [-](-)   | [-]()       |
+| Mitra Integrasi Informatika | -        | -         | -       | [-](-)   | [-]()       |
 
 ## MEDIUM IT CONSULTANT
 
@@ -97,11 +104,14 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 | anilo                      | -        | -         | -       | [-](-)   | [-]()       |
 | Bangun Digital Nusantara   | -        | -         | -       | [-](-)   | [-]()       |
 | BTS.id                     | -        | -         | -       | [-](-)   | [-]()       |
+| Catalyst Tech              | -        | -         | -       | [-](-)   | [-]()       |
 | Diksha Teknologi Indonesia | -        | -         | -       | [-](-)   | [-]()       |
 | Graha Karya Informasi      | -        | -         | -       | [-](-)   | [-]()       |
 | Happy5                     | -        | -         | -       | [-](-)   | [-]()       |
 | Indivara Group             | -        | -         | -       | [-](-)   | [-]()       |
+| Roketin                    | -        | -         | -       | [-](-)   | [-]()       |
 | Sentra Aktiva Indonesia    | -        | -         | -       | [-](-)   | [-]()       |
+| Zero One Group             | -        | -         | -       | [-](-)   | [-]()       |
 
 ## BANK AND NON-TECH
 
@@ -109,6 +119,7 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 | ---------------- | -------- | --------- | ------- | -------- | ----------- |
 | BCA              | -        | -         | -       | [-](-)   | [-]()       |
 | Kawan Lama Group | -        | -         | -       | [-](-)   | [-]()       |
+| KOMPAS GRAMEDIA  | -        | -         | -       | [-](-)   | [-]()       |
 | Telkom           | -        | -         | -       | [-](-)   | [-]()       |
 
 ## SINGAPORE STARTUP COMPANY
