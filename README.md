@@ -1,6 +1,6 @@
 # ID Tech List
 
-List of notable tech companies in Indonesia. Useful when looking for a new job.
+List of tech companies in Indonesia. Useful when looking for a new job.
 
 > **Warning**
 > Categories are highly subjective and potentially biased. Relative positions within a category are arbitrary.
