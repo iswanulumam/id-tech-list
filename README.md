@@ -8,13 +8,13 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 > **Warning**
 > The list is not meant to be exhaustive. I am not affiliated to any companies listed.
 
-| Level       | Headcount |
-| ----------- | --------- |
-| Established | 500+      |
-| Medium      | 300~500   |
-| Small       | 30~300    |
+| Level  | Headcount |
+| ------ | --------- |
+| Big    | 500+      |
+| Medium | 300~500   |
+| Small  | 30~300    |
 
-## ESTABLISHED START-UP
+## BIG START-UP
 
 | Company     | Category     | Headcount | Website                      | Linkedin                                                                             | Career Page                                    |
 | ----------- | ------------ | --------- | ---------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------- |
@@ -38,7 +38,7 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 
 ## SMALL START-UP
 
-## ESTABLISHED IT CONSULTANT
+## BIG IT CONSULTANT
 
 ## MEDIUM IT CONSULTANT
 
