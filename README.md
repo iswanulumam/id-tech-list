@@ -26,6 +26,7 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 | Gojek       | Ride Hailing | 25000+    | https://www.gojek.com/en-id/ | [Gojek](https://www.linkedin.com/company/gojek/)                                     | [Gojek](https://career.gojek.com/)             |
 | J&T Express | E-logistics  | 6000+     | https://www.jet.co.id/       | [J&T Express](https://www.linkedin.com/company/pt--global-jet-express-j&t-express-/) | [J&T Express](https://jet.co.id/about/career)  |
 | OVO         | Fintech      | -         | -                            | [-](-)                                                                               | [-]()                                          |
+| Shopee      | Fintech      | -         | -                            | [-](-)                                                                               | [-]()                                          |
 | Traveloka   | -            | -         | -                            | [-](-)                                                                               | [-]()                                          |
 | Tiket       | -            | -         | -                            | [-](-)                                                                               | [-]()                                          |
 | Xendit      | -            | -         | -                            | [-](-)                                                                               | [-]()                                          |
@@ -33,8 +34,17 @@ List of notable tech companies in Indonesia. Useful when looking for a new job.
 
 ## MEDIUM START-UP
 
-- Akulaku
-- Kopi Kenangan
+| Company       | Category | Headcount | Website | Linkedin | Career Page |
+| ------------- | -------- | --------- | ------- | -------- | ----------- |
+| Akulaku       | -        | -         | -       | [-](-)   | [-]()       |
+| HappyFresh    | -        | -         | -       | [-](-)   | [-]()       |
+| HarukaEdu     | -        | -         | -       | [-](-)   | [-]()       |
+| Kopi Kenangan | -        | -         | -       | [-](-)   | [-]()       |
+| Koinworks     | -        | -         | -       | [-](-)   | [-]()       |
+| Evormos       | -        | -         | -       | [-](-)   | [-]()       |
+| Mekari        | -        | -         | -       | [-](-)   | [-]()       |
+| SayurBox      | -        | -         | -       | [-](-)   | [-]()       |
+| -             | -        | -         | -       | [-](-)   | [-]()       |
 
 ## SMALL START-UP
 
