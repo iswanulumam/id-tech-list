@@ -27,10 +27,12 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Bukalapak             | Ecommerce     | 2800+     | https://www.bukalapak.com/       | [Bukalapak](https://www.linkedin.com/company/pt-bukalapak-com/)                      | [Bukalapak](https://careers.bukalapak.com/)          |
 | Blibli                | Ecommerce     | 3300+     | https://www.blibli.com/          | [Blibli](https://www.linkedin.com/company/blibli/)                                   | [Blibli](https://careers.blibli.com/)                |
 | Bibit                 | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Cicil                 | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Dana                  | Fintech       | 1200+     | https://www.dana.id/             | [Dana](https://www.linkedin.com/company/dana-indonesia/)                             | [Dana](https://www.dana.id/career)                   |
 | eFishery              | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | EdenFarm              | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Flip                  | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Fazz                  | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Gojek                 | Ride Hailing  | 25000+    | https://www.gojek.com/en-id/     | [Gojek](https://www.linkedin.com/company/gojek/)                                     | [Gojek](https://career.gojek.com/)                   |
 | GudangAda             | B2B Ecommerce | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Glints                | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
@@ -40,14 +42,21 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | IDN Media             | Media         | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | INDODAX               | web3          | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | J&T Express           | Logistics     | 6000+     | https://www.jet.co.id/           | [J&T Express](https://www.linkedin.com/company/pt--global-jet-express-j&t-express-/) | [J&T Express](https://jet.co.id/about/career)        |
+| JULO                  | Media         | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | kumparan              | Media         | -         | -                                | [-](-)                                                                               | [-]()                                                |
-| KreditPlus            | Media         | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| KreditPlus            | Fintech       | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Kargo Technologies    | logistics     | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Logisly               | logistics     | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | majoo Indonesia       | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Moladin               | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Mapan                 | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Ninja Xpress          | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Pinhome               | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | OVO                   | Fintech       | 1500+     | https://www.ovo.id/              | [OVO](https://www.linkedin.com/company/visionetinternasional/)                       | [OVO](https://www.ovo.id/career)                     |
 | Privy                 | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Quipper               | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Ruangguru             | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Sekolah.mu            | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Shopee                | Fintech       | 54000+    | https://shopee.co.id/            | [Shopee](https://www.linkedin.com/company/shopee/)                                   | [Shopee](https://careers.shopee.co.id/)              |
 | Stockbit              | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | SiCepat               | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
@@ -69,17 +78,21 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | ASTRO                     | -        | -         | -       | [-](-)   | [-]()       |
 | Ayoconnect                | -        | -         | -       | [-](-)   | [-]()       |
 | Aplikasi Super            | -        | -         | -       | [-](-)   | [-]()       |
+| AccelByte                 | -        | -         | -       | [-](-)   | [-]()       |
 | Asetku                    | -        | -         | -       | [-](-)   | [-]()       |
+| AdaKami                   | -        | -         | -       | [-](-)   | [-]()       |
 | Barito Technologies Group | -        | -         | -       | [-](-)   | [-]()       |
 | Bhumi Varta Technology    | -        | -         | -       | [-](-)   | [-]()       |
 | Bizzy Indonesia           | -        | -         | -       | [-](-)   | [-]()       |
 | BINUS Group               | -        | -         | -       | [-](-)   | [-]()       |
 | Bank Aladin Syariah       | -        | -         | -       | [-](-)   | [-]()       |
+| Bobobox                   | -        | -         | -       | [-](-)   | [-]()       |
 | DKATALIS                  | -        | -         | -       | [-](-)   | [-]()       |
 | Deall Jobs                | -        | -         | -       | [-](-)   | [-]()       |
 | Evermos                   | -        | -         | -       | [-](-)   | [-]()       |
 | Female Daily Network      | -        | -         | -       | [-](-)   | [-]()       |
 | FIT HUB                   | -        | -         | -       | [-](-)   | [-]()       |
+| Fore Coffee               | -        | -         | -       | [-](-)   | [-]()       |
 | GovTech Edu               | -        | -         | -       | [-](-)   | [-]()       |
 | Pegipegi                  | -        | -         | -       | [-](-)   | [-]()       |
 | HappyFresh                | -        | -         | -       | [-](-)   | [-]()       |
@@ -92,6 +105,8 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Koinworks                 | -        | -         | -       | [-](-)   | [-]()       |
 | Kitabisa                  | -        | -         | -       | [-](-)   | [-]()       |
 | KitaLulus                 | -        | -         | -       | [-](-)   | [-]()       |
+| KlikDokter                | -        | -         | -       | [-](-)   | [-]()       |
+| Kulina                    | -        | -         | -       | [-](-)   | [-]()       |
 | Lemonilo                  | -        | -         | -       | [-](-)   | [-]()       |
 | Mekari                    | -        | -         | -       | [-](-)   | [-]()       |
 | Mister Aladin             | -        | -         | -       | [-](-)   | [-]()       |
@@ -114,50 +129,71 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Ternak Uang               | -        | -         | -       | [-](-)   | [-]()       |
 | TaniHub                   | -        | -         | -       | [-](-)   | [-]()       |
 | Tada                      | -        | -         | -       | [-](-)   | [-]()       |
+| Tokocrypto                | -        | -         | -       | [-](-)   | [-]()       |
 | UniPin                    | -        | -         | -       | [-](-)   | [-]()       |
 | Waresix                   | -        | -         | -       | [-](-)   | [-]()       |
 | -                         | -        | -         | -       | [-](-)   | [-]()       |
 
 ## SMALL START-UP
 
-| Company              | Category | Headcount | Website | Linkedin | Career Page |
-| -------------------- | -------- | --------- | ------- | -------- | ----------- |
-| Alegrium             | -        | -         | -       | [-](-)   | [-]()       |
-| Advotics             | -        | -         | -       | [-](-)   | [-]()       |
-| Farmacare.id         | -        | -         | -       | [-](-)   | [-]()       |
-| Feedloop             | -        | -         | -       | [-](-)   | [-]()       |
-| Gadjian              | -        | -         | -       | [-](-)   | [-]()       |
-| Hyppe                | -        | -         | -       | [-](-)   | [-]()       |
-| Inspigo.id           | -        | -         | -       | [-](-)   | [-]()       |
-| Kata.ai              | -        | -         | -       | [-](-)   | [-]()       |
-| LOKET                | -        | -         | -       | [-](-)   | [-]()       |
-| MC Payment Indonesia | -        | -         | -       | [-](-)   | [-]()       |
-| Nodeflux             | -        | -         | -       | [-](-)   | [-]()       |
-| Octopus Indonesia    | -        | -         | -       | [-](-)   | [-]()       |
-| Prixa.ai             | -        | -         | -       | [-](-)   | [-]()       |
-| Praktis              | -        | -         | -       | [-](-)   | [-]()       |
-| Pajakku              | -        | -         | -       | [-](-)   | [-]()       |
-| Reku                 | -        | -         | -       | [-](-)   | [-]()       |
-| RRQ Guild            | -        | -         | -       | [-](-)   | [-]()       |
-| Sinbad               | -        | -         | -       | [-](-)   | [-]()       |
-| SiapDOK              | -        | -         | -       | [-](-)   | [-]()       |
-| SUN Education Group  | -        | -         | -       | [-](-)   | [-]()       |
-| Style Theory         | -        | -         | -       | [-](-)   | [-]()       |
-| Telukunjuk           | -        | -         | -       | [-](-)   | [-]()       |
-| Transfez             | -        | -         | -       | [-](-)   | [-]()       |
-| Tentang Anak         | -        | -         | -       | [-](-)   | [-]()       |
-| TIX ID               | -        | -         | -       | [-](-)   | [-]()       |
+| Company                    | Category | Headcount | Website | Linkedin | Career Page |
+| -------------------------- | -------- | --------- | ------- | -------- | ----------- |
+| Alegrium                   | -        | -         | -       | [-](-)   | [-]()       |
+| Advotics                   | -        | -         | -       | [-](-)   | [-]()       |
+| Andalin                    | -        | -         | -       | [-](-)   | [-]()       |
+| Emtrade                    | -        | -         | -       | [-](-)   | [-]()       |
+| EKRUT                      | -        | -         | -       | [-](-)   | [-]()       |
+| Farmacare.id               | -        | -         | -       | [-](-)   | [-]()       |
+| Feedloop                   | -        | -         | -       | [-](-)   | [-]()       |
+| Forstok                    | -        | -         | -       | [-](-)   | [-]()       |
+| Gadjian                    | -        | -         | -       | [-](-)   | [-]()       |
+| Hyppe                      | -        | -         | -       | [-](-)   | [-]()       |
+| Inspigo.id                 | -        | -         | -       | [-](-)   | [-]()       |
+| Job2Go                     | -        | -         | -       | [-](-)   | [-]()       |
+| Jakmall.com                | -        | -         | -       | [-](-)   | [-]()       |
+| Kata.ai                    | -        | -         | -       | [-](-)   | [-]()       |
+| Kasir Pintar Internasional | -        | -         | -       | [-](-)   | [-]()       |
+| Komerce                    | -        | -         | -       | [-](-)   | [-]()       |
+| LOKET                      | -        | -         | -       | [-](-)   | [-]()       |
+| MC Payment Indonesia       | -        | -         | -       | [-](-)   | [-]()       |
+| Merah Cipta Media          | -        | -         | -       | [-](-)   | [-]()       |
+| PERSOLKELLY Indonesia      | -        | -         | -       | [-](-)   | [-]()       |
+| Nodeflux                   | -        | -         | -       | [-](-)   | [-]()       |
+| Octopus Indonesia          | -        | -         | -       | [-](-)   | [-]()       |
+| Otten Coffee               | -        | -         | -       | [-](-)   | [-]()       |
+| Prixa.ai                   | -        | -         | -       | [-](-)   | [-]()       |
+| Praktis                    | -        | -         | -       | [-](-)   | [-]()       |
+| Pajakku                    | -        | -         | -       | [-](-)   | [-]()       |
+| Pintek                     | -        | -         | -       | [-](-)   | [-]()       |
+| Qiscus                     | -        | -         | -       | [-](-)   | [-]()       |
+| Reku                       | -        | -         | -       | [-](-)   | [-]()       |
+| Ritase.com                 | -        | -         | -       | [-](-)   | [-]()       |
+| RebelWorks                 | -        | -         | -       | [-](-)   | [-]()       |
+| RRQ Guild                  | -        | -         | -       | [-](-)   | [-]()       |
+| Sinbad                     | -        | -         | -       | [-](-)   | [-]()       |
+| SiapDOK                    | -        | -         | -       | [-](-)   | [-]()       |
+| SUN Education Group        | -        | -         | -       | [-](-)   | [-]()       |
+| Style Theory               | -        | -         | -       | [-](-)   | [-]()       |
+| Telukunjuk                 | -        | -         | -       | [-](-)   | [-]()       |
+| Transfez                   | -        | -         | -       | [-](-)   | [-]()       |
+| Tentang Anak               | -        | -         | -       | [-](-)   | [-]()       |
+| TIX ID                     | -        | -         | -       | [-](-)   | [-]()       |
+| Virgo                      | -        | -         | -       | [-](-)   | [-]()       |
+| Vonix                      | -        | -         | -       | [-](-)   | [-]()       |
 
 ## BIG IT CONSULTING
 
 | Company                     | Category | Headcount | Website | Linkedin | Career Page |
 | --------------------------- | -------- | --------- | ------- | -------- | ----------- |
 | Anabatic Technologies       | -        | -         | -       | [-](-)   | [-]()       |
+| Accenture                   | -        | -         | -       | [-](-)   | [-]()       |
+| Axiata Digital Labs         | -        | -         | -       | [-](-)   | [-]()       |
 | AGIT                        | -        | -         | -       | [-](-)   | [-]()       |
 | DIKA                        | -        | -         | -       | [-](-)   | [-]()       |
 | INFOMEDIA NUSANTARA         | -        | -         | -       | [-](-)   | [-]()       |
 | Indocyber Global Teknologi  | -        | -         | -       | [-](-)   | [-]()       |
 | Mitra Integrasi Informatika | -        | -         | -       | [-](-)   | [-]()       |
+| SALT                        | -        | -         | -       | [-](-)   | [-]()       |
 | PHINCON                     | -        | -         | -       | [-](-)   | [-]()       |
 | Transcosmos Indonesia       | -        | -         | -       | [-](-)   | [-]()       |
 
@@ -168,6 +204,7 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Accord Innovations          | -        | -         | -       | [-](-)   | [-]()       |
 | Asaba Computer Centre       | -        | -         | -       | [-](-)   | [-]()       |
 | Asian Technology Solutions  | -        | -         | -       | [-](-)   | [-]()       |
+| Bimasakti Multi Sinergi     | -        | -         | -       | [-](-)   | [-]()       |
 | CODE.ID                     | -        | -         | -       | [-](-)   | [-]()       |
 | id/x partners               | -        | -         | -       | [-](-)   | [-]()       |
 | IDStar Cipta Teknologi      | -        | -         | -       | [-](-)   | [-]()       |
@@ -197,8 +234,12 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Boston Makmur Gemilang           | -        | -         | -       | [-](-)   | [-]()       |
 | CLS System                       | -        | -         | -       | [-](-)   | [-]()       |
 | Catalyst Tech                    | -        | -         | -       | [-](-)   | [-]()       |
+| Celerates                        | -        | -         | -       | [-](-)   | [-]()       |
 | Diksha Teknologi Indonesia       | -        | -         | -       | [-](-)   | [-]()       |
+| DataOn                           | -        | -         | -       | [-](-)   | [-]()       |
+| DOT Indonesia                    | -        | -         | -       | [-](-)   | [-]()       |
 | Global Urban Esensial            | -        | -         | -       | [-](-)   | [-]()       |
+| GOERS                            | -        | -         | -       | [-](-)   | [-]()       |
 | JOLA MITRA UTAMA                 | -        | -         | -       | [-](-)   | [-]()       |
 | Jobseeker Company                | -        | -         | -       | [-](-)   | [-]()       |
 | Fast8 Group                      | -        | -         | -       | [-](-)   | [-]()       |
@@ -209,9 +250,12 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Indivara Group                   | -        | -         | -       | [-](-)   | [-]()       |
 | ITOMMEY Group                    | -        | -         | -       | [-](-)   | [-]()       |
 | Jejak.in                         | -        | -         | -       | [-](-)   | [-]()       |
+| Klik Digital Sinergi             | -        | -         | -       | [-](-)   | [-]()       |
+| Laku6.com                        | -        | -         | -       | [-](-)   | [-]()       |
 | Machine Vision Indonesia         | -        | -         | -       | [-](-)   | [-]()       |
 | Mandiri International Technology | -        | -         | -       | [-](-)   | [-]()       |
 | MAPID                            | -        | -         | -       | [-](-)   | [-]()       |
+| Ocean Innovation Tech            | -        | -         | -       | [-](-)   | [-]()       |
 | Pro Sigmaka Mandiri              | -        | -         | -       | [-](-)   | [-]()       |
 | Pintarnya                        | -        | -         | -       | [-](-)   | [-]()       |
 | SIGMATECH                        | -        | -         | -       | [-](-)   | [-]()       |
@@ -233,28 +277,33 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 
 ## BANK / OTHER BIG COMPANY
 
-| Company               | Category | Headcount | Website | Linkedin | Career Page |
-| --------------------- | -------- | --------- | ------- | -------- | ----------- |
-| Astra International   | -        | -         | -       | [-](-)   | [-]()       |
-| Asuransi Astra        | -        | -         | -       | [-](-)   | [-]()       |
-| BCA                   | -        | -         | -       | [-](-)   | [-]()       |
-| BRI                   | -        | -         | -       | [-](-)   | [-]()       |
-| BNI                   | -        | -         | -       | [-](-)   | [-]()       |
-| BFI Finance Indonesia | -        | -         | -       | [-](-)   | [-]()       |
-| Biznet                | -        | -         | -       | [-](-)   | [-]()       |
-| Blue Bird Group       | -        | -         | -       | [-](-)   | [-]()       |
-| Bank BTPN             | -        | -         | -       | [-](-)   | [-]()       |
-| Bank Mandiri          | -        | -         | -       | [-](-)   | [-]()       |
-| Bank Jago             | -        | -         | -       | [-](-)   | [-]()       |
-| Indosat               | -        | -         | -       | [-](-)   | [-]()       |
-| Kawan Lama Group      | -        | -         | -       | [-](-)   | [-]()       |
-| Kalbe Nutritionals    | -        | -         | -       | [-](-)   | [-]()       |
-| KOMPAS GRAMEDIA       | -        | -         | -       | [-](-)   | [-]()       |
-| Lion Parcel           | -        | -         | -       | [-](-)   | [-]()       |
-| MNC GROUP             | -        | -         | -       | [-](-)   | [-]()       |
-| MSBU                  | -        | -         | -       | [-](-)   | [-]()       |
-| MadeIndonesia         | -        | -         | -       | [-](-)   | [-]()       |
-| Sinar Mas             | -        | -         | -       | [-](-)   | [-]()       |
-| Telkom                | -        | -         | -       | [-](-)   | [-]()       |
-| Unilever              | -        | -         | -       | [-](-)   | [-]()       |
-| XL Axiata             | -        | -         | -       | [-](-)   | [-]()       |
+| Company                | Category | Headcount | Website | Linkedin | Career Page |
+| ---------------------- | -------- | --------- | ------- | -------- | ----------- |
+| Astra International    | -        | -         | -       | [-](-)   | [-]()       |
+| Asuransi Astra         | -        | -         | -       | [-](-)   | [-]()       |
+| BCA                    | -        | -         | -       | [-](-)   | [-]()       |
+| BRI                    | -        | -         | -       | [-](-)   | [-]()       |
+| BNI                    | -        | -         | -       | [-](-)   | [-]()       |
+| BFI Finance Indonesia  | -        | -         | -       | [-](-)   | [-]()       |
+| Biznet                 | -        | -         | -       | [-](-)   | [-]()       |
+| Blue Bird Group        | -        | -         | -       | [-](-)   | [-]()       |
+| Bank BTPN              | -        | -         | -       | [-](-)   | [-]()       |
+| Bank Mandiri           | -        | -         | -       | [-](-)   | [-]()       |
+| Bank MNC Internasional | -        | -         | -       | [-](-)   | [-]()       |
+| Bank Jago              | -        | -         | -       | [-](-)   | [-]()       |
+| CIMB Niaga             | -        | -         | -       | [-](-)   | [-]()       |
+| Deloitte               | -        | -         | -       | [-](-)   | [-]()       |
+| Indosat                | -        | -         | -       | [-](-)   | [-]()       |
+| Kawan Lama Group       | -        | -         | -       | [-](-)   | [-]()       |
+| Kalbe Nutritionals     | -        | -         | -       | [-](-)   | [-]()       |
+| KOMPAS GRAMEDIA        | -        | -         | -       | [-](-)   | [-]()       |
+| Lion Parcel            | -        | -         | -       | [-](-)   | [-]()       |
+| MNC GROUP              | -        | -         | -       | [-](-)   | [-]()       |
+| MNC Media              | -        | -         | -       | [-](-)   | [-]()       |
+| MSBU                   | -        | -         | -       | [-](-)   | [-]()       |
+| MadeIndonesia          | -        | -         | -       | [-](-)   | [-]()       |
+| Sinar Mas              | -        | -         | -       | [-](-)   | [-]()       |
+| Smartfren Telecom      | -        | -         | -       | [-](-)   | [-]()       |
+| Telkom                 | -        | -         | -       | [-](-)   | [-]()       |
+| Unilever               | -        | -         | -       | [-](-)   | [-]()       |
+| XL Axiata              | -        | -         | -       | [-](-)   | [-]()       |
