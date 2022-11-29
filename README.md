@@ -23,12 +23,14 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Aruna                 | Investment    | 500+      | https://ajaib.co.id/             | [Ajaib](https://www.linkedin.com/company/ajaib-id/)                                  | [Ajaib](https://career.ajaib.co.id/)                 |
 | Alami                 | Fintech       | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Amartha               | Fintech       | -         | -                                | [-](-)                                                                               | [-]()                                                |
-| Anteraja              | Fintech       | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Anteraja              | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Alodokter             | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Bukalapak             | Ecommerce     | 2800+     | https://www.bukalapak.com/       | [Bukalapak](https://www.linkedin.com/company/pt-bukalapak-com/)                      | [Bukalapak](https://careers.bukalapak.com/)          |
 | Blibli                | Ecommerce     | 3300+     | https://www.blibli.com/          | [Blibli](https://www.linkedin.com/company/blibli/)                                   | [Blibli](https://careers.blibli.com/)                |
 | Bibit                 | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Cicil                 | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
-| Dana                  | Fintech       | 1200+     | https://www.dana.id/             | [Dana](https://www.linkedin.com/company/dana-indonesia/)                             | [Dana](https://www.dana.id/career)                   |
+| Dana Indonesia        | Fintech       | 1200+     | https://www.dana.id/             | [Dana](https://www.linkedin.com/company/dana-indonesia/)                             | [Dana](https://www.dana.id/career)                   |
+| Dagangan              | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | eFishery              | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | EdenFarm              | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Flip                  | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
@@ -67,6 +69,7 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Tokopedia             | Ecommerce     | 8400+     | https://www.tokopedia.com/       | [Tokopedia](https://www.linkedin.com/company/pt--tokopedia/)                         | [Tokopedia](https://www.tokopedia.com/careers)       |
 | Tiket                 | Travel        | 1700+     | https://www.tiket.com/           | [Tiket](https://www.linkedin.com/company/pt-global-tiket-network/)                   | [Tiket](https://careers.tiket.com/)                  |
 | Ula                   | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
+| Vidio                 | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Warung Pintar         | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
 | Xendit                | Fintech       | 800+      | https://www.xendit.co/id/        | [Xendit](https://www.linkedin.com/company/xendit/)                                   | [Xendit](https://www.xendit.co/en/careers/)          |
 | -                     | -             | -         | -                                | [-](-)                                                                               | [-]()                                                |
@@ -88,8 +91,10 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | BINUS Group               | -        | -         | -       | [-](-)   | [-]()       |
 | Bank Aladin Syariah       | -        | -         | -       | [-](-)   | [-]()       |
 | Bobobox                   | -        | -         | -       | [-](-)   | [-]()       |
+| Cermati.com               | -        | -         | -       | [-](-)   | [-]()       |
 | DKATALIS                  | -        | -         | -       | [-](-)   | [-]()       |
 | Deall Jobs                | -        | -         | -       | [-](-)   | [-]()       |
+| DOKU                      | -        | -         | -       | [-](-)   | [-]()       |
 | Evermos                   | -        | -         | -       | [-](-)   | [-]()       |
 | Female Daily Network      | -        | -         | -       | [-](-)   | [-]()       |
 | FIT HUB                   | -        | -         | -       | [-](-)   | [-]()       |
@@ -124,10 +129,12 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Pluang                    | -        | -         | -       | [-](-)   | [-]()       |
 | Pintu                     | -        | -         | -       | [-](-)   | [-]()       |
 | PasarPolis                | -        | -         | -       | [-](-)   | [-]()       |
+| Qoala                     | -        | -         | -       | [-](-)   | [-]()       |
 | PASIFIK SATELIT NUSANTARA | -        | -         | -       | [-](-)   | [-]()       |
 | Rata.id                   | -        | -         | -       | [-](-)   | [-]()       |
 | RCTI+                     | -        | -         | -       | [-](-)   | [-]()       |
 | SayurBox                  | -        | -         | -       | [-](-)   | [-]()       |
+| SehatQ                    | -        | -         | -       | [-](-)   | [-]()       |
 | Ternak Uang               | -        | -         | -       | [-](-)   | [-]()       |
 | TaniHub                   | -        | -         | -       | [-](-)   | [-]()       |
 | Tada                      | -        | -         | -       | [-](-)   | [-]()       |
@@ -150,13 +157,17 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Forstok                    | -        | -         | -       | [-](-)   | [-]()       |
 | FinAccel                   | -        | -         | -       | [-](-)   | [-]()       |
 | Gadjian                    | -        | -         | -       | [-](-)   | [-]()       |
+| Gokomodo                   | -        | -         | -       | [-](-)   | [-]()       |
 | Hyppe                      | -        | -         | -       | [-](-)   | [-]()       |
 | Inspigo.id                 | -        | -         | -       | [-](-)   | [-]()       |
 | Job2Go                     | -        | -         | -       | [-](-)   | [-]()       |
 | Jakmall.com                | -        | -         | -       | [-](-)   | [-]()       |
+| Jubelio                    | -        | -         | -       | [-](-)   | [-]()       |
 | Kata.ai                    | -        | -         | -       | [-](-)   | [-]()       |
 | Kasir Pintar Internasional | -        | -         | -       | [-](-)   | [-]()       |
 | Komerce                    | -        | -         | -       | [-](-)   | [-]()       |
+| Kreatif Media Karya        | -        | -         | -       | [-](-)   | [-]()       |
+| Lifepal                    | -        | -         | -       | [-](-)   | [-]()       |
 | LOKET                      | -        | -         | -       | [-](-)   | [-]()       |
 | MC Payment Indonesia       | -        | -         | -       | [-](-)   | [-]()       |
 | Merah Cipta Media          | -        | -         | -       | [-](-)   | [-]()       |
@@ -203,6 +214,7 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | SALT                        | -        | -         | -       | [-](-)   | [-]()       |
 | PHINCON                     | -        | -         | -       | [-](-)   | [-]()       |
 | Transcosmos Indonesia       | -        | -         | -       | [-](-)   | [-]()       |
+| Xtremax                     | -        | -         | -       | [-](-)   | [-]()       |
 
 ## MEDIUM IT CONSULTING
 
@@ -220,6 +232,7 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Intikom Berlian Mustika     | -        | -         | -       | [-](-)   | [-]()       |
 | Indonesia Indicator         | -        | -         | -       | [-](-)   | [-]()       |
 | Lawencon Internasional      | -        | -         | -       | [-](-)   | [-]()       |
+| PasarPolis                  | -        | -         | -       | [-](-)   | [-]()       |
 | Satkomindo Mediyasa         | -        | -         | -       | [-](-)   | [-]()       |
 | TOG Indonesia               | -        | -         | -       | [-](-)   | [-]()       |
 | Wowrack Indonesia           | -        | -         | -       | [-](-)   | [-]()       |
@@ -242,11 +255,13 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | CLS System                       | -        | -         | -       | [-](-)   | [-]()       |
 | Catalyst Tech                    | -        | -         | -       | [-](-)   | [-]()       |
 | Celerates                        | -        | -         | -       | [-](-)   | [-]()       |
+| CODE.ID                          | -        | -         | -       | [-](-)   | [-]()       |
 | Diksha Teknologi Indonesia       | -        | -         | -       | [-](-)   | [-]()       |
 | DataOn                           | -        | -         | -       | [-](-)   | [-]()       |
 | DOT Indonesia                    | -        | -         | -       | [-](-)   | [-]()       |
 | Global Urban Esensial            | -        | -         | -       | [-](-)   | [-]()       |
 | GOERS                            | -        | -         | -       | [-](-)   | [-]()       |
+| Ice Hous                         | -        | -         | -       | [-](-)   | [-]()       |
 | JOLA MITRA UTAMA                 | -        | -         | -       | [-](-)   | [-]()       |
 | Jobseeker Company                | -        | -         | -       | [-](-)   | [-]()       |
 | Fast8 Group                      | -        | -         | -       | [-](-)   | [-]()       |
@@ -262,6 +277,7 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Machine Vision Indonesia         | -        | -         | -       | [-](-)   | [-]()       |
 | Mandiri International Technology | -        | -         | -       | [-](-)   | [-]()       |
 | MAPID                            | -        | -         | -       | [-](-)   | [-]()       |
+| McEasy                           | -        | -         | -       | [-](-)   | [-]()       |
 | Ocean Innovation Tech            | -        | -         | -       | [-](-)   | [-]()       |
 | Pro Sigmaka Mandiri              | -        | -         | -       | [-](-)   | [-]()       |
 | Pintarnya                        | -        | -         | -       | [-](-)   | [-]()       |
@@ -314,4 +330,5 @@ List of tech companies in Indonesia. Useful when looking for a new job.
 | Smartfren Telecom      | -        | -         | -       | [-](-)   | [-]()       |
 | Telkom                 | -        | -         | -       | [-](-)   | [-]()       |
 | Unilever               | -        | -         | -       | [-](-)   | [-]()       |
+| Unit4                  | -        | -         | -       | [-](-)   | [-]()       |
 | XL Axiata              | -        | -         | -       | [-](-)   | [-]()       |
