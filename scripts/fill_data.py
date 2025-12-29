@@ -206,6 +206,322 @@ COMPANY_DATA = {
     },
     "SiCepat": {
         "careerPage": "https://www.sicepat.com/careers"
+    },
+    
+    # MEDIUM START-UP
+    "Mekari": {
+        "category": "SaaS",
+        "website": "https://www.mekari.com/",
+        "linkedin": "https://www.linkedin.com/company/mekari/",
+        "careerPage": "https://www.mekari.com/careers"
+    },
+    "Pluang": {
+        "category": "Investment",
+        "website": "https://pluang.com/",
+        "linkedin": "https://www.linkedin.com/company/pluang/",
+        "careerPage": "https://pluang.com/careers"
+    },
+    "Qoala": {
+        "category": "Fintech",
+        "website": "https://www.qoala.id/",
+        "linkedin": "https://www.linkedin.com/company/qoala/",
+        "careerPage": "https://www.qoala.id/careers"
+    },
+    "SehatQ": {
+        "category": "Health Care",
+        "website": "https://www.sehatq.com/",
+        "linkedin": "https://www.linkedin.com/company/sehatq/",
+        "careerPage": "https://www.sehatq.com/careers"
+    },
+    "TaniHub": {
+        "category": "Agritech",
+        "website": "https://tanihub.com/",
+        "linkedin": "https://www.linkedin.com/company/tanihub/",
+        "careerPage": "https://tanihub.com/careers"
+    },
+    "Tokocrypto": {
+        "category": "Web3",
+        "website": "https://www.tokocrypto.com/",
+        "linkedin": "https://www.linkedin.com/company/tokocrypto/",
+        "careerPage": "https://www.tokocrypto.com/careers"
+    },
+    "Waresix": {
+        "category": "Logistics",
+        "website": "https://waresix.com/",
+        "linkedin": "https://www.linkedin.com/company/waresix/",
+        "careerPage": "https://waresix.com/careers"
+    },
+    "Pintu": {
+        "category": "Web3",
+        "website": "https://pintu.co.id/",
+        "linkedin": "https://www.linkedin.com/company/pintu/",
+        "careerPage": "https://pintu.co.id/careers"
+    },
+    "Modalku": {
+        "category": "Fintech",
+        "website": "https://www.modalku.com/",
+        "linkedin": "https://www.linkedin.com/company/modalku/",
+        "careerPage": "https://www.modalku.com/careers"
+    },
+    "Investree": {
+        "category": "Fintech",
+        "website": "https://investree.id/",
+        "linkedin": "https://www.linkedin.com/company/investree/",
+        "careerPage": "https://investree.id/careers"
+    },
+    "Kitabisa": {
+        "category": "Social Impact",
+        "website": "https://kitabisa.com/",
+        "linkedin": "https://www.linkedin.com/company/kitabisa/",
+        "careerPage": "https://kitabisa.com/careers"
+    },
+    "Lemonilo": {
+        "category": "Ecommerce",
+        "website": "https://www.lemonilo.com/",
+        "linkedin": "https://www.linkedin.com/company/lemonilo/",
+        "careerPage": "https://www.lemonilo.com/careers"
+    },
+    "Mamikos": {
+        "category": "PropTech",
+        "website": "https://mamikos.com/",
+        "linkedin": "https://www.linkedin.com/company/mamikos/",
+        "careerPage": "https://mamikos.com/careers"
+    },
+    "Kopi Kenangan": {
+        "category": "F&B Tech",
+        "website": "https://kopikenangan.com/",
+        "linkedin": "https://www.linkedin.com/company/kopi-kenangan/",
+        "careerPage": ""
+    },
+    "Fore Coffee": {
+        "category": "F&B Tech",
+        "website": "https://fore.coffee/",
+        "linkedin": "https://www.linkedin.com/company/fore-coffee/",
+        "careerPage": ""
+    },
+    "HappyFresh": {
+        "category": "Ecommerce",
+        "website": "https://www.happyfresh.com/",
+        "linkedin": "https://www.linkedin.com/company/happyfresh/",
+        "careerPage": "https://www.happyfresh.com/careers"
+    },
+    "Bobobox": {
+        "category": "Travel",
+        "website": "https://www.bobobox.co.id/",
+        "linkedin": "https://www.linkedin.com/company/bobobox/",
+        "careerPage": ""
+    },
+    "Cermati.com": {
+        "category": "Fintech",
+        "website": "https://www.cermati.com/",
+        "linkedin": "https://www.linkedin.com/company/cermati/",
+        "careerPage": ""
+    },
+    "DOKU": {
+        "category": "Fintech",
+        "website": "https://www.doku.com/",
+        "linkedin": "https://www.linkedin.com/company/doku/",
+        "careerPage": "https://www.doku.com/careers"
+    },
+    "Evermos": {
+        "category": "Ecommerce",
+        "website": "https://evermos.com/",
+        "linkedin": "https://www.linkedin.com/company/evermos/",
+        "careerPage": "https://evermos.com/careers"
+    },
+    "Female Daily Network": {
+        "category": "Media",
+        "website": "https://www.femaledaily.com/",
+        "linkedin": "https://www.linkedin.com/company/female-daily-network/",
+        "careerPage": ""
+    },
+    "Koinworks": {
+        "category": "Fintech",
+        "website": "https://koinworks.com/",
+        "linkedin": "https://www.linkedin.com/company/koinworks/",
+        "careerPage": "https://koinworks.com/careers"
+    },
+    "KlikDokter": {
+        "category": "Health Care",
+        "website": "https://www.klikdokter.com/",
+        "linkedin": "https://www.linkedin.com/company/klikdokter/",
+        "careerPage": ""
+    },
+    "Niagahoster": {
+        "category": "SaaS",
+        "website": "https://www.niagahoster.co.id/",
+        "linkedin": "https://www.linkedin.com/company/niagahoster/",
+        "careerPage": "https://www.niagahoster.co.id/careers"
+    },
+    "UniPin": {
+        "category": "Gaming",
+        "website": "https://www.unipin.com/",
+        "linkedin": "https://www.linkedin.com/company/unipin/",
+        "careerPage": ""
+    },
+    
+    # SMALL START-UP
+    "Kata.ai": {
+        "category": "AI",
+        "website": "https://kata.ai/",
+        "linkedin": "https://www.linkedin.com/company/kata-ai/",
+        "careerPage": "https://kata.ai/careers"
+    },
+    "Qiscus": {
+        "category": "SaaS",
+        "website": "https://www.qiscus.com/",
+        "linkedin": "https://www.linkedin.com/company/qiscus/",
+        "careerPage": "https://www.qiscus.com/careers"
+    },
+    "Reku": {
+        "category": "Fintech",
+        "website": "https://reku.id/",
+        "linkedin": "https://www.linkedin.com/company/reku/",
+        "careerPage": ""
+    },
+    "SoftwareSeni Indonesia": {
+        "category": "IT Consulting",
+        "website": "https://softwareseni.com/",
+        "linkedin": "https://www.linkedin.com/company/softwareseni/",
+        "careerPage": "https://softwareseni.com/careers"
+    },
+    "Suitmedia Digital Agency": {
+        "category": "Digital Agency",
+        "website": "https://suitmedia.com/",
+        "linkedin": "https://www.linkedin.com/company/suitmedia/",
+        "careerPage": "https://suitmedia.com/careers"
+    },
+    
+    # BIG IT CONSULTING
+    "Accenture": {
+        "category": "IT Consulting",
+        "website": "https://www.accenture.com/id-en",
+        "linkedin": "https://www.linkedin.com/company/accenture/",
+        "careerPage": "https://www.accenture.com/id-en/careers"
+    },
+    "Binar Academy": {
+        "category": "EdTech",
+        "website": "https://www.binaracademy.com/",
+        "linkedin": "https://www.linkedin.com/company/binar-academy/",
+        "careerPage": "https://www.binaracademy.com/careers"
+    },
+    "Xtremax": {
+        "category": "IT Consulting",
+        "website": "https://www.xtremax.com/",
+        "linkedin": "https://www.linkedin.com/company/xtremax/",
+        "careerPage": "https://www.xtremax.com/careers"
+    },
+    "Anabatic Technologies": {
+        "category": "IT Consulting",
+        "website": "https://www.anabatic.com/",
+        "linkedin": "https://www.linkedin.com/company/anabatic-technologies/",
+        "careerPage": "https://www.anabatic.com/careers"
+    },
+    "Mitra Integrasi Informatika": {
+        "category": "IT Consulting",
+        "website": "https://www.mii.co.id/",
+        "linkedin": "https://www.linkedin.com/company/mitra-integrasi-informatika/",
+        "careerPage": "https://www.mii.co.id/careers"
+    },
+    "Indocyber Global Teknologi": {
+        "category": "IT Consulting",
+        "website": "https://www.indocyber.co.id/",
+        "linkedin": "https://www.linkedin.com/company/indocyber/",
+        "careerPage": ""
+    },
+    
+    # MEDIUM IT CONSULTING
+    "CODE.ID": {
+        "category": "IT Consulting",
+        "website": "https://code.id/",
+        "linkedin": "https://www.linkedin.com/company/code-id/",
+        "careerPage": "https://code.id/careers"
+    },
+    
+    # BANK / OTHER BIG COMPANY
+    "BCA": {
+        "category": "Banking",
+        "website": "https://www.bca.co.id/",
+        "linkedin": "https://www.linkedin.com/company/bank-central-asia/",
+        "careerPage": "https://www.bca.co.id/id/tentang-bca/karir"
+    },
+    "BRI": {
+        "category": "Banking",
+        "website": "https://www.bri.co.id/",
+        "linkedin": "https://www.linkedin.com/company/bank-rakyat-indonesia/",
+        "careerPage": "https://www.bri.co.id/id/tentang-bri/karir"
+    },
+    "BNI": {
+        "category": "Banking",
+        "website": "https://www.bni.co.id/",
+        "linkedin": "https://www.linkedin.com/company/bank-negara-indonesia/",
+        "careerPage": "https://www.bni.co.id/id-id/tentang-bni/karir"
+    },
+    "Bank Mandiri": {
+        "category": "Banking",
+        "website": "https://www.bankmandiri.co.id/",
+        "linkedin": "https://www.linkedin.com/company/bank-mandiri/",
+        "careerPage": "https://www.bankmandiri.co.id/id/karir"
+    },
+    "Bank Jago": {
+        "category": "Banking",
+        "website": "https://www.jago.com/",
+        "linkedin": "https://www.linkedin.com/company/bank-jago/",
+        "careerPage": "https://www.jago.com/careers"
+    },
+    "Bank Neo Commerce": {
+        "category": "Banking",
+        "website": "https://www.neocommerce.co.id/",
+        "linkedin": "https://www.linkedin.com/company/bank-neo-commerce/",
+        "careerPage": ""
+    },
+    "CIMB Niaga": {
+        "category": "Banking",
+        "website": "https://www.cimbniaga.co.id/",
+        "linkedin": "https://www.linkedin.com/company/cimb-niaga/",
+        "careerPage": "https://www.cimbniaga.co.id/id/personal/careers"
+    },
+    "Telkom": {
+        "category": "Telecommunications",
+        "website": "https://www.telkom.co.id/",
+        "linkedin": "https://www.linkedin.com/company/telkom-indonesia/",
+        "careerPage": "https://www.telkom.co.id/id/about-us/people/career"
+    },
+    "Indosat": {
+        "category": "Telecommunications",
+        "website": "https://www.indosat.com/",
+        "linkedin": "https://www.linkedin.com/company/indosat/",
+        "careerPage": "https://www.indosat.com/careers"
+    },
+    "XL Axiata": {
+        "category": "Telecommunications",
+        "website": "https://www.xl.co.id/",
+        "linkedin": "https://www.linkedin.com/company/xl-axiata/",
+        "careerPage": "https://www.xl.co.id/careers"
+    },
+    "Smartfren Telecom": {
+        "category": "Telecommunications",
+        "website": "https://www.smartfren.com/",
+        "linkedin": "https://www.linkedin.com/company/smartfren/",
+        "careerPage": ""
+    },
+    "Astra International": {
+        "category": "Conglomerate",
+        "website": "https://www.astra.co.id/",
+        "linkedin": "https://www.linkedin.com/company/astra-international/",
+        "careerPage": "https://www.astra.co.id/careers"
+    },
+    "Deloitte": {
+        "category": "Consulting",
+        "website": "https://www2.deloitte.com/id/en.html",
+        "linkedin": "https://www.linkedin.com/company/deloitte/",
+        "careerPage": "https://www2.deloitte.com/id/en/careers.html"
+    },
+    "Biznet": {
+        "category": "Telecommunications",
+        "website": "https://www.biznetnetworks.com/",
+        "linkedin": "https://www.linkedin.com/company/biznet/",
+        "careerPage": "https://www.biznetnetworks.com/careers"
     }
 }
 

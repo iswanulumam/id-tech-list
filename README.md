@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Total Companies](https://img.shields.io/badge/Total%20Companies-282-blue)
-![Completeness](https://img.shields.io/badge/Data%20Completeness-19.1%25-green)
+![Completeness](https://img.shields.io/badge/Data%20Completeness-37.6%25-green)
 
 </div>
 
@@ -16,9 +16,9 @@
 | Metrik | Jumlah |
 | :--- | :---: |
 | **Total Perusahaan** | **282** |
-| Dengan Website | 54 |
-| Dengan LinkedIn | 54 |
-| Dengan Career Page | 40 |
+| Dengan Website | 106 |
+| Dengan LinkedIn | 106 |
+| Dengan Career Page | 81 |
 
 ---
 
@@ -123,57 +123,57 @@
 | **Bizzy Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **BINUS Group** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Bank Aladin Syariah** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Bobobox** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Cermati.com** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Bobobox** | ✈️ Travel | <sub>—</sub> | 🌐 [Bobobox](https://www.bobobox.co.id/) | 💼 [Bobobox](https://www.linkedin.com/company/bobobox/) | <sub>—</sub> |
+| **Cermati.com** | 💳 Fintech | <sub>—</sub> | 🌐 [Cermati.com](https://www.cermati.com/) | 💼 [Cermati.com](https://www.linkedin.com/company/cermati/) | <sub>—</sub> |
 | **DKATALIS** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Deall Jobs** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **DOKU** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Evermos** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Female Daily Network** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **DOKU** | 💳 Fintech | <sub>—</sub> | 🌐 [DOKU](https://www.doku.com/) | 💼 [DOKU](https://www.linkedin.com/company/doku/) | 💼 [DOKU](https://www.doku.com/careers) |
+| **Evermos** | 🛒 Ecommerce | <sub>—</sub> | 🌐 [Evermos](https://evermos.com/) | 💼 [Evermos](https://www.linkedin.com/company/evermos/) | 💼 [Evermos](https://evermos.com/careers) |
+| **Female Daily Network** | 📺 Media | <sub>—</sub> | 🌐 [Female Daily Network](https://www.femaledaily.com/) | 💼 [Female Daily Network](https://www.linkedin.com/company/female-daily-network/) | <sub>—</sub> |
 | **FIT HUB** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Fore Coffee** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Fore Coffee** | 💼 F&B Tech | <sub>—</sub> | 🌐 [Fore Coffee](https://fore.coffee/) | 💼 [Fore Coffee](https://www.linkedin.com/company/fore-coffee/) | <sub>—</sub> |
 | **GovTech Edu** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Pegipegi** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **HappyFresh** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **HappyFresh** | 🛒 Ecommerce | <sub>—</sub> | 🌐 [HappyFresh](https://www.happyfresh.com/) | 💼 [HappyFresh](https://www.linkedin.com/company/happyfresh/) | 💼 [HappyFresh](https://www.happyfresh.com/careers) |
 | **HarukaEdu** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Hypefast** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Investree** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Investree** | 💳 Fintech | <sub>—</sub> | 🌐 [Investree](https://investree.id/) | 💼 [Investree](https://www.linkedin.com/company/investree/) | 💼 [Investree](https://investree.id/careers) |
 | **itmi** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Jojonomic** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Kopi Kenangan** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Koinworks** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Kitabisa** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Kopi Kenangan** | 💼 F&B Tech | <sub>—</sub> | 🌐 [Kopi Kenangan](https://kopikenangan.com/) | 💼 [Kopi Kenangan](https://www.linkedin.com/company/kopi-kenangan/) | <sub>—</sub> |
+| **Koinworks** | 💳 Fintech | <sub>—</sub> | 🌐 [Koinworks](https://koinworks.com/) | 💼 [Koinworks](https://www.linkedin.com/company/koinworks/) | 💼 [Koinworks](https://koinworks.com/careers) |
+| **Kitabisa** | 💼 Social Impact | <sub>—</sub> | 🌐 [Kitabisa](https://kitabisa.com/) | 💼 [Kitabisa](https://www.linkedin.com/company/kitabisa/) | 💼 [Kitabisa](https://kitabisa.com/careers) |
 | **KitaLulus** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **KlikDokter** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **KlikDokter** | 🏥 Health Care | <sub>—</sub> | 🌐 [KlikDokter](https://www.klikdokter.com/) | 💼 [KlikDokter](https://www.linkedin.com/company/klikdokter/) | <sub>—</sub> |
 | **Kulina** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Lemonilo** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Mekari** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Lemonilo** | 🛒 Ecommerce | <sub>—</sub> | 🌐 [Lemonilo](https://www.lemonilo.com/) | 💼 [Lemonilo](https://www.linkedin.com/company/lemonilo/) | 💼 [Lemonilo](https://www.lemonilo.com/careers) |
+| **Mekari** | ☁️ SaaS | <sub>—</sub> | 🌐 [Mekari](https://www.mekari.com/) | 💼 [Mekari](https://www.linkedin.com/company/mekari/) | 💼 [Mekari](https://www.mekari.com/careers) |
 | **Mister Aladin** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Mamikos** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Mamikos** | 🏠 PropTech | <sub>—</sub> | 🌐 [Mamikos](https://mamikos.com/) | 💼 [Mamikos](https://www.linkedin.com/company/mamikos/) | 💼 [Mamikos](https://mamikos.com/careers) |
 | **MySkill** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **MatchaTalent** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Mbiz.co.id** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Niagahoster** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Niagahoster** | ☁️ SaaS | <sub>—</sub> | 🌐 [Niagahoster](https://www.niagahoster.co.id/) | 💼 [Niagahoster](https://www.linkedin.com/company/niagahoster/) | 💼 [Niagahoster](https://www.niagahoster.co.id/careers) |
 | **Nawa Data Solutions** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Netzme** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Modalku** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Modalku** | 💳 Fintech | <sub>—</sub> | 🌐 [Modalku](https://www.modalku.com/) | 💼 [Modalku](https://www.linkedin.com/company/modalku/) | 💼 [Modalku](https://www.modalku.com/careers) |
 | **OY! Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **OttoDigital Group** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Pluang** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Pintu** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Pluang** | 📈 Investment | <sub>—</sub> | 🌐 [Pluang](https://pluang.com/) | 💼 [Pluang](https://www.linkedin.com/company/pluang/) | 💼 [Pluang](https://pluang.com/careers) |
+| **Pintu** | 🌐 Web3 | <sub>—</sub> | 🌐 [Pintu](https://pintu.co.id/) | 💼 [Pintu](https://www.linkedin.com/company/pintu/) | 💼 [Pintu](https://pintu.co.id/careers) |
 | **PasarPolis** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Qoala** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Qoala** | 💳 Fintech | <sub>—</sub> | 🌐 [Qoala](https://www.qoala.id/) | 💼 [Qoala](https://www.linkedin.com/company/qoala/) | 💼 [Qoala](https://www.qoala.id/careers) |
 | **PASIFIK SATELIT NUSANTARA** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Rata.id** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **RCTI+** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **SayurBox** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **SehatQ** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **SehatQ** | 🏥 Health Care | <sub>—</sub> | 🌐 [SehatQ](https://www.sehatq.com/) | 💼 [SehatQ](https://www.linkedin.com/company/sehatq/) | 💼 [SehatQ](https://www.sehatq.com/careers) |
 | **Ternak Uang** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **TaniHub** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **TaniHub** | 🌾 Agritech | <sub>—</sub> | 🌐 [TaniHub](https://tanihub.com/) | 💼 [TaniHub](https://www.linkedin.com/company/tanihub/) | 💼 [TaniHub](https://tanihub.com/careers) |
 | **Tada** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Tokocrypto** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **UniPin** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Waresix** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Tokocrypto** | 🌐 Web3 | <sub>—</sub> | 🌐 [Tokocrypto](https://www.tokocrypto.com/) | 💼 [Tokocrypto](https://www.linkedin.com/company/tokocrypto/) | 💼 [Tokocrypto](https://www.tokocrypto.com/careers) |
+| **UniPin** | 💼 Gaming | <sub>—</sub> | 🌐 [UniPin](https://www.unipin.com/) | 💼 [UniPin](https://www.linkedin.com/company/unipin/) | <sub>—</sub> |
+| **Waresix** | 🚚 Logistics | <sub>—</sub> | 🌐 [Waresix](https://waresix.com/) | 💼 [Waresix](https://www.linkedin.com/company/waresix/) | 💼 [Waresix](https://waresix.com/careers) |
 
 ---
 
@@ -201,7 +201,7 @@
 | **Job2Go** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Jakmall.com** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Jubelio** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Kata.ai** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Kata.ai** | 💼 AI | <sub>—</sub> | 🌐 [Kata.ai](https://kata.ai/) | 💼 [Kata.ai](https://www.linkedin.com/company/kata-ai/) | 💼 [Kata.ai](https://kata.ai/careers) |
 | **Kasir Pintar Internasional** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Komerce** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Kreatif Media Karya** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
@@ -217,8 +217,8 @@
 | **Praktis** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Pajakku** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Pintek** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Qiscus** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Reku** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Qiscus** | ☁️ SaaS | <sub>—</sub> | 🌐 [Qiscus](https://www.qiscus.com/) | 💼 [Qiscus](https://www.linkedin.com/company/qiscus/) | 💼 [Qiscus](https://www.qiscus.com/careers) |
+| **Reku** | 💳 Fintech | <sub>—</sub> | 🌐 [Reku](https://reku.id/) | 💼 [Reku](https://www.linkedin.com/company/reku/) | <sub>—</sub> |
 | **Ritase.com** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Ralali.com** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **RebelWorks** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
@@ -246,19 +246,19 @@
 
 | Company | Category | Headcount | Website | LinkedIn | Career Page |
 | :--- | :--- | :---: | :--- | :--- | :--- |
-| **Anabatic Technologies** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Accenture** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Anabatic Technologies** | 💼 IT Consulting | <sub>—</sub> | 🌐 [Anabatic Technologies](https://www.anabatic.com/) | 💼 [Anabatic Technologies](https://www.linkedin.com/company/anabatic-technologies/) | 💼 [Anabatic Technologies](https://www.anabatic.com/careers) |
+| **Accenture** | 💼 IT Consulting | <sub>—</sub> | 🌐 [Accenture](https://www.accenture.com/id-en) | 💼 [Accenture](https://www.linkedin.com/company/accenture/) | 💼 [Accenture](https://www.accenture.com/id-en/careers) |
 | **Axiata Digital Labs** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **AGIT** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Binar Academy** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Binar Academy** | 📚 EdTech | <sub>—</sub> | 🌐 [Binar Academy](https://www.binaracademy.com/) | 💼 [Binar Academy](https://www.linkedin.com/company/binar-academy/) | 💼 [Binar Academy](https://www.binaracademy.com/careers) |
 | **DIKA** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **INFOMEDIA NUSANTARA** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Indocyber Global Teknologi** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Mitra Integrasi Informatika** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Indocyber Global Teknologi** | 💼 IT Consulting | <sub>—</sub> | 🌐 [Indocyber Global Teknologi](https://www.indocyber.co.id/) | 💼 [Indocyber Global Teknologi](https://www.linkedin.com/company/indocyber/) | <sub>—</sub> |
+| **Mitra Integrasi Informatika** | 💼 IT Consulting | <sub>—</sub> | 🌐 [Mitra Integrasi Informatika](https://www.mii.co.id/) | 💼 [Mitra Integrasi Informatika](https://www.linkedin.com/company/mitra-integrasi-informatika/) | 💼 [Mitra Integrasi Informatika](https://www.mii.co.id/careers) |
 | **SALT** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **PHINCON** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Transcosmos Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Xtremax** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Xtremax** | 💼 IT Consulting | <sub>—</sub> | 🌐 [Xtremax](https://www.xtremax.com/) | 💼 [Xtremax](https://www.linkedin.com/company/xtremax/) | 💼 [Xtremax](https://www.xtremax.com/careers) |
 
 ---
 
@@ -274,7 +274,7 @@
 | **Asaba Computer Centre** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Asian Technology Solutions** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Bimasakti Multi Sinergi** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **CODE.ID** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **CODE.ID** | 💼 IT Consulting | <sub>—</sub> | 🌐 [CODE.ID](https://code.id/) | 💼 [CODE.ID](https://www.linkedin.com/company/code-id/) | 💼 [CODE.ID](https://code.id/careers) |
 | **id/x partners** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **IDStar Cipta Teknologi** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Global Service Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
@@ -311,7 +311,7 @@
 | **CLS System** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Catalyst Tech** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Celerates** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **CODE.ID** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **CODE.ID** | 💼 IT Consulting | <sub>—</sub> | 🌐 [CODE.ID](https://code.id/) | 💼 [CODE.ID](https://www.linkedin.com/company/code-id/) | 💼 [CODE.ID](https://code.id/careers) |
 | **Diksha Teknologi Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **DataOn** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **DOT Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
@@ -346,8 +346,8 @@
 | **Roketin** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Rekadia Solusi Teknologi** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Sentra Aktiva Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **SoftwareSeni Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Suitmedia Digital Agency** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **SoftwareSeni Indonesia** | 💼 IT Consulting | <sub>—</sub> | 🌐 [SoftwareSeni Indonesia](https://softwareseni.com/) | 💼 [SoftwareSeni Indonesia](https://www.linkedin.com/company/softwareseni/) | 💼 [SoftwareSeni Indonesia](https://softwareseni.com/careers) |
+| **Suitmedia Digital Agency** | 💼 Digital Agency | <sub>—</sub> | 🌐 [Suitmedia Digital Agency](https://suitmedia.com/) | 💼 [Suitmedia Digital Agency](https://www.linkedin.com/company/suitmedia/) | 💼 [Suitmedia Digital Agency](https://suitmedia.com/careers) |
 | **Tata Informasi Asia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Ukirama** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Xeratic** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
@@ -364,22 +364,22 @@
 
 | Company | Category | Headcount | Website | LinkedIn | Career Page |
 | :--- | :--- | :---: | :--- | :--- | :--- |
-| **Astra International** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Astra International** | 💼 Conglomerate | <sub>—</sub> | 🌐 [Astra International](https://www.astra.co.id/) | 💼 [Astra International](https://www.linkedin.com/company/astra-international/) | 💼 [Astra International](https://www.astra.co.id/careers) |
 | **Asuransi Astra** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **BCA** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **BRI** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **BNI** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **BCA** | 💼 Banking | <sub>—</sub> | 🌐 [BCA](https://www.bca.co.id/) | 💼 [BCA](https://www.linkedin.com/company/bank-central-asia/) | 💼 [BCA](https://www.bca.co.id/id/tentang-bca/karir) |
+| **BRI** | 💼 Banking | <sub>—</sub> | 🌐 [BRI](https://www.bri.co.id/) | 💼 [BRI](https://www.linkedin.com/company/bank-rakyat-indonesia/) | 💼 [BRI](https://www.bri.co.id/id/tentang-bri/karir) |
+| **BNI** | 💼 Banking | <sub>—</sub> | 🌐 [BNI](https://www.bni.co.id/) | 💼 [BNI](https://www.linkedin.com/company/bank-negara-indonesia/) | 💼 [BNI](https://www.bni.co.id/id-id/tentang-bni/karir) |
 | **BFI Finance Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Biznet** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Biznet** | 💼 Telecommunications | <sub>—</sub> | 🌐 [Biznet](https://www.biznetnetworks.com/) | 💼 [Biznet](https://www.linkedin.com/company/biznet/) | 💼 [Biznet](https://www.biznetnetworks.com/careers) |
 | **Blue Bird Group** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Bank BTPN** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Bank Mandiri** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Bank Mandiri** | 💼 Banking | <sub>—</sub> | 🌐 [Bank Mandiri](https://www.bankmandiri.co.id/) | 💼 [Bank Mandiri](https://www.linkedin.com/company/bank-mandiri/) | 💼 [Bank Mandiri](https://www.bankmandiri.co.id/id/karir) |
 | **Bank MNC Internasional** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Bank Jago** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Bank Neo Commerce** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **CIMB Niaga** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Deloitte** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Indosat** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Bank Jago** | 💼 Banking | <sub>—</sub> | 🌐 [Bank Jago](https://www.jago.com/) | 💼 [Bank Jago](https://www.linkedin.com/company/bank-jago/) | 💼 [Bank Jago](https://www.jago.com/careers) |
+| **Bank Neo Commerce** | 💼 Banking | <sub>—</sub> | 🌐 [Bank Neo Commerce](https://www.neocommerce.co.id/) | 💼 [Bank Neo Commerce](https://www.linkedin.com/company/bank-neo-commerce/) | <sub>—</sub> |
+| **CIMB Niaga** | 💼 Banking | <sub>—</sub> | 🌐 [CIMB Niaga](https://www.cimbniaga.co.id/) | 💼 [CIMB Niaga](https://www.linkedin.com/company/cimb-niaga/) | 💼 [CIMB Niaga](https://www.cimbniaga.co.id/id/personal/careers) |
+| **Deloitte** | 💼 Consulting | <sub>—</sub> | 🌐 [Deloitte](https://www2.deloitte.com/id/en.html) | 💼 [Deloitte](https://www.linkedin.com/company/deloitte/) | 💼 [Deloitte](https://www2.deloitte.com/id/en/careers.html) |
+| **Indosat** | 💼 Telecommunications | <sub>—</sub> | 🌐 [Indosat](https://www.indosat.com/) | 💼 [Indosat](https://www.linkedin.com/company/indosat/) | 💼 [Indosat](https://www.indosat.com/careers) |
 | **Kawan Lama Group** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Kalbe Nutritionals** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **KOMPAS GRAMEDIA** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
@@ -389,11 +389,11 @@
 | **MSBU** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **MadeIndonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Sinar Mas** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Smartfren Telecom** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Telkom** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Smartfren Telecom** | 💼 Telecommunications | <sub>—</sub> | 🌐 [Smartfren Telecom](https://www.smartfren.com/) | 💼 [Smartfren Telecom](https://www.linkedin.com/company/smartfren/) | <sub>—</sub> |
+| **Telkom** | 💼 Telecommunications | <sub>—</sub> | 🌐 [Telkom](https://www.telkom.co.id/) | 💼 [Telkom](https://www.linkedin.com/company/telkom-indonesia/) | 💼 [Telkom](https://www.telkom.co.id/id/about-us/people/career) |
 | **Unilever** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
 | **Unit4** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **XL Axiata** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **XL Axiata** | 💼 Telecommunications | <sub>—</sub> | 🌐 [XL Axiata](https://www.xl.co.id/) | 💼 [XL Axiata](https://www.linkedin.com/company/xl-axiata/) | 💼 [XL Axiata](https://www.xl.co.id/careers) |
 
 ---
 
