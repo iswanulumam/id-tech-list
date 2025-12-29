@@ -1,0 +1,2363 @@
+{
+  "metadata": {
+    "description": "List of tech companies in Indonesia",
+    "lastUpdated": "2024",
+    "note": "Categories are highly subjective and potentially biased. The list is not meant to be exhaustive."
+  },
+  "categories": {
+    "big_startup": {
+      "name": "BIG START-UP",
+      "headcount": "500+",
+      "companies": [
+        {
+          "name": "---------------------",
+          "category": "-------------",
+          "headcount": "---------",
+          "website": "--------------------------------",
+          "linkedin": "------------------------------------------------------------------------------------",
+          "careerPage": "----------------------------------------------------"
+        },
+        {
+          "name": "Akulaku",
+          "category": "Fintech",
+          "headcount": "700+",
+          "website": "https://www.akulaku.com/",
+          "linkedin": "https://www.linkedin.com/company/akulakuindonesia/",
+          "careerPage": ""
+        },
+        {
+          "name": "Ajaib",
+          "category": "Investment",
+          "headcount": "500+",
+          "website": "https://ajaib.co.id/",
+          "linkedin": "https://www.linkedin.com/company/ajaib-id/",
+          "careerPage": "https://career.ajaib.co.id/"
+        },
+        {
+          "name": "Aruna",
+          "category": "Maritime Tech",
+          "headcount": "500+",
+          "website": "https://aruna.id/",
+          "linkedin": "https://www.linkedin.com/company/aruna-indonesia/",
+          "careerPage": ""
+        },
+        {
+          "name": "Alami",
+          "category": "Fintech",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Amartha",
+          "category": "Fintech",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Anteraja",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Alodokter",
+          "category": "Health Care",
+          "headcount": "",
+          "website": "https://www.alodokter.com/",
+          "linkedin": "https://www.linkedin.com/company/alodokter/",
+          "careerPage": ""
+        },
+        {
+          "name": "Bukalapak",
+          "category": "Ecommerce",
+          "headcount": "2800+",
+          "website": "https://www.bukalapak.com/",
+          "linkedin": "https://www.linkedin.com/company/pt-bukalapak-com/",
+          "careerPage": "https://careers.bukalapak.com/"
+        },
+        {
+          "name": "Blibli",
+          "category": "Ecommerce",
+          "headcount": "3300+",
+          "website": "https://www.blibli.com/",
+          "linkedin": "https://www.linkedin.com/company/blibli/",
+          "careerPage": "https://careers.blibli.com/"
+        },
+        {
+          "name": "Bibit",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Cicil",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Dana Indonesia",
+          "category": "Fintech",
+          "headcount": "1200+",
+          "website": "https://www.dana.id/",
+          "linkedin": "https://www.linkedin.com/company/dana-indonesia/",
+          "careerPage": "https://www.dana.id/career"
+        },
+        {
+          "name": "Dagangan",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "eFishery",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "EdenFarm",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Flip",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Fazz",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Gojek",
+          "category": "Ride Hailing",
+          "headcount": "25000+",
+          "website": "https://www.gojek.com/en-id/",
+          "linkedin": "https://www.linkedin.com/company/gojek/",
+          "careerPage": "https://career.gojek.com/"
+        },
+        {
+          "name": "GudangAda",
+          "category": "B2B Ecommerce",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Glints",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Home Credit Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Halodoc",
+          "category": "Health Care",
+          "headcount": "",
+          "website": "https://www.halodoc.com/",
+          "linkedin": "https://www.linkedin.com/company/halodoc/",
+          "careerPage": "https://careers.halodoc.com/"
+        },
+        {
+          "name": "Harian Kompas",
+          "category": "Publishing",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "IDN Media",
+          "category": "Media",
+          "headcount": "",
+          "website": "https://www.idntimes.com/",
+          "linkedin": "https://www.linkedin.com/company/idn-media/",
+          "careerPage": ""
+        },
+        {
+          "name": "INDODAX",
+          "category": "web3",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "J&T Express",
+          "category": "Logistics",
+          "headcount": "6000+",
+          "website": "https://www.jet.co.id/",
+          "linkedin": "https://www.linkedin.com/company/pt--global-jet-express-j&t-express-/",
+          "careerPage": "https://jet.co.id/about/career"
+        },
+        {
+          "name": "JULO",
+          "category": "Media",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "kumparan",
+          "category": "Media",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "KreditPlus",
+          "category": "Fintech",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kargo Technologies",
+          "category": "logistics",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Logisly",
+          "category": "logistics",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "majoo Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Moladin",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Mapan",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ninja Xpress",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pinhome",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "OVO",
+          "category": "Fintech",
+          "headcount": "1500+",
+          "website": "https://www.ovo.id/",
+          "linkedin": "https://www.linkedin.com/company/visionetinternasional/",
+          "careerPage": "https://www.ovo.id/career"
+        },
+        {
+          "name": "Privy",
+          "category": "Digital Identity",
+          "headcount": "",
+          "website": "https://www.privy.id/",
+          "linkedin": "https://www.linkedin.com/company/privyid/",
+          "careerPage": "https://www.privy.id/careers"
+        },
+        {
+          "name": "Quipper",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ruangguru",
+          "category": "EdTech",
+          "headcount": "",
+          "website": "https://www.ruangguru.com/",
+          "linkedin": "https://www.linkedin.com/company/ruangguru/",
+          "careerPage": "https://careers.ruangguru.com/"
+        },
+        {
+          "name": "Sekolah.mu",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Shopee",
+          "category": "Fintech",
+          "headcount": "54000+",
+          "website": "https://shopee.co.id/",
+          "linkedin": "https://www.linkedin.com/company/shopee/",
+          "careerPage": "https://careers.shopee.co.id/"
+        },
+        {
+          "name": "Stockbit",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SiCepat",
+          "category": "Logistics",
+          "headcount": "",
+          "website": "https://www.sicepat.com/",
+          "linkedin": "https://www.linkedin.com/company/sicepat/",
+          "careerPage": ""
+        },
+        {
+          "name": "Shipper",
+          "category": "Logistics",
+          "headcount": "",
+          "website": "https://www.shipper.id/",
+          "linkedin": "https://www.linkedin.com/company/shipper-id/",
+          "careerPage": "https://careers.shipper.id/"
+        },
+        {
+          "name": "Sociolla",
+          "category": "Ecommerce",
+          "headcount": "",
+          "website": "https://www.sociolla.com/",
+          "linkedin": "https://www.linkedin.com/company/sociolla/",
+          "careerPage": "https://careers.sociolla.com/"
+        },
+        {
+          "name": "Sirclo",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Traveloka",
+          "category": "Travel",
+          "headcount": "3100+",
+          "website": "https://www.traveloka.com/en-id/",
+          "linkedin": "https://www.linkedin.com/company/traveloka/",
+          "careerPage": "https://www.traveloka.com/en-id/careers"
+        },
+        {
+          "name": "Tokopedia",
+          "category": "Ecommerce",
+          "headcount": "8400+",
+          "website": "https://www.tokopedia.com/",
+          "linkedin": "https://www.linkedin.com/company/pt--tokopedia/",
+          "careerPage": "https://www.tokopedia.com/careers"
+        },
+        {
+          "name": "Tiket",
+          "category": "Travel",
+          "headcount": "1700+",
+          "website": "https://www.tiket.com/",
+          "linkedin": "https://www.linkedin.com/company/pt-global-tiket-network/",
+          "careerPage": "https://careers.tiket.com/"
+        },
+        {
+          "name": "Ula",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Vidio",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Warung Pintar",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Xendit",
+          "category": "Fintech",
+          "headcount": "800+",
+          "website": "https://www.xendit.co/id/",
+          "linkedin": "https://www.linkedin.com/company/xendit/",
+          "careerPage": "https://www.xendit.co/en/careers/"
+        }
+      ]
+    },
+    "medium_startup": {
+      "name": "MEDIUM START-UP",
+      "headcount": "300~500",
+      "companies": [
+        {
+          "name": "-------------------------",
+          "category": "--------",
+          "headcount": "---------",
+          "website": "-------",
+          "linkedin": "--------",
+          "careerPage": "-----------"
+        },
+        {
+          "name": "Alterra Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "ASTRO",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ayoconnect",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Aplikasi Super",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "AccelByte",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Asetku",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "AdaKami",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Barito Technologies Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bhumi Varta Technology",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bizzy Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "BINUS Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bank Aladin Syariah",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bobobox",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Cermati.com",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "DKATALIS",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Deall Jobs",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "DOKU",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Evermos",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Female Daily Network",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "FIT HUB",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Fore Coffee",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "GovTech Edu",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pegipegi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "HappyFresh",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "HarukaEdu",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Hypefast",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Investree",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "itmi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Jojonomic",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kopi Kenangan",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Koinworks",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kitabisa",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "KitaLulus",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "KlikDokter",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kulina",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Lemonilo",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Mekari",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Mister Aladin",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Mamikos",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MySkill",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MatchaTalent",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Mbiz.co.id",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Niagahoster",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Nawa Data Solutions",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Netzme",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Modalku",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "OY! Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "OttoDigital Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pluang",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pintu",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "PasarPolis",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Qoala",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "PASIFIK SATELIT NUSANTARA",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Rata.id",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "RCTI+",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SayurBox",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SehatQ",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ternak Uang",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "TaniHub",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Tada",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Tokocrypto",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "UniPin",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Waresix",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        }
+      ]
+    },
+    "small_startup": {
+      "name": "SMALL START-UP",
+      "headcount": "30~300",
+      "companies": [
+        {
+          "name": "--------------------------",
+          "category": "--------",
+          "headcount": "---------",
+          "website": "-------",
+          "linkedin": "--------",
+          "careerPage": "-----------"
+        },
+        {
+          "name": "Alegrium",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Advotics",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Andalin",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Emtrade",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "EKRUT",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Farmacare.id",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Feedloop",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Forstok",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "FinAccel",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Gadjian",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Gokomodo",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Hyppe",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Inspigo.id",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Job2Go",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Jakmall.com",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Jubelio",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kata.ai",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kasir Pintar Internasional",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Komerce",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kreatif Media Karya",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Lifepal",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "LOKET",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MC Payment Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Merah Cipta Media",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "PERSOLKELLY Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Nodeflux",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Octopus Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Otten Coffee",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Prixa.ai",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Praktis",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pajakku",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pintek",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Qiscus",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Reku",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ritase.com",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ralali.com",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "RebelWorks",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "RRQ Guild",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Sinbad",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SiapDOK",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SUN Education Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Style Theory",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Satu Persen",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Telukunjuk",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Transfez",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Tentang Anak",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "TIX ID",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Virgo",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Vonix",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "YesDok",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        }
+      ]
+    },
+    "big_it_consulting": {
+      "name": "BIG IT CONSULTING",
+      "headcount": "500+",
+      "companies": [
+        {
+          "name": "---------------------------",
+          "category": "--------",
+          "headcount": "---------",
+          "website": "-------",
+          "linkedin": "--------",
+          "careerPage": "-----------"
+        },
+        {
+          "name": "Anabatic Technologies",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Accenture",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Axiata Digital Labs",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "AGIT",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Binar Academy",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "DIKA",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "INFOMEDIA NUSANTARA",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Indocyber Global Teknologi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Mitra Integrasi Informatika",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SALT",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "PHINCON",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Transcosmos Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Xtremax",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        }
+      ]
+    },
+    "medium_it_consulting": {
+      "name": "MEDIUM IT CONSULTING",
+      "headcount": "300~500",
+      "companies": [
+        {
+          "name": "---------------------------",
+          "category": "--------",
+          "headcount": "---------",
+          "website": "-------",
+          "linkedin": "--------",
+          "careerPage": "-----------"
+        },
+        {
+          "name": "Accord Innovations",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Asaba Computer Centre",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Asian Technology Solutions",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bimasakti Multi Sinergi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "CODE.ID",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "id/x partners",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "IDStar Cipta Teknologi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Global Service Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Group Avows",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Intikom Berlian Mustika",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Indonesia Indicator",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Lawencon Internasional",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "PasarPolis",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Satkomindo Mediyasa",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "TOG Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Wowrack Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Wide Technologies Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Xapiens Teknologi Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Xsis Mitra Utama",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        }
+      ]
+    },
+    "small_it_consulting": {
+      "name": "SMALL IT CONSULTING",
+      "headcount": "30~300",
+      "companies": [
+        {
+          "name": "--------------------------------",
+          "category": "--------",
+          "headcount": "---------",
+          "website": "-------",
+          "linkedin": "--------",
+          "careerPage": "-----------"
+        },
+        {
+          "name": "Arvis",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "anilo",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Asani",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "AITINDO",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Assemblr",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bangun Digital Nusantara",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "BTS.id",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Boston Makmur Gemilang",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "CLS System",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Catalyst Tech",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Celerates",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "CODE.ID",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Diksha Teknologi Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "DataOn",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "DOT Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Global Urban Esensial",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "GOERS",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ice Hous",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "JOLA MITRA UTAMA",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Jobseeker Company",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Fast8 Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Graha Karya Informasi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "GITS Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Happy5",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Jatis Mobile",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Indivara Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "ITOMMEY Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Jejak.in",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Klik Digital Sinergi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Laku6.com",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Machine Vision Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Mandiri International Technology",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MAPID",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "McEasy",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ocean Innovation Tech",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pro Sigmaka Mandiri",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Pintarnya",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SIGMATECH",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Swamedia Informatika",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Skyshi Digital Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Sagara Technology",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Qoin Digital Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Qlue Smart City",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Roketin",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Rekadia Solusi Teknologi",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Sentra Aktiva Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "SoftwareSeni Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Suitmedia Digital Agency",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Tata Informasi Asia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Ukirama",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Xeratic",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Zero One Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "VhiWEB",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        }
+      ]
+    },
+    "bank_other_big_company": {
+      "name": "BANK / OTHER BIG COMPANY",
+      "headcount": "500+",
+      "companies": [
+        {
+          "name": "----------------------",
+          "category": "--------",
+          "headcount": "---------",
+          "website": "-------",
+          "linkedin": "--------",
+          "careerPage": "-----------"
+        },
+        {
+          "name": "Astra International",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Asuransi Astra",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "BCA",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "BRI",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "BNI",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "BFI Finance Indonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Biznet",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Blue Bird Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bank BTPN",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bank Mandiri",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bank MNC Internasional",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bank Jago",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Bank Neo Commerce",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "CIMB Niaga",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Deloitte",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Indosat",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kawan Lama Group",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Kalbe Nutritionals",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "KOMPAS GRAMEDIA",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Lion Parcel",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MNC GROUP",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MNC Media",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MSBU",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "MadeIndonesia",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Sinar Mas",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Smartfren Telecom",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Telkom",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Unilever",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "Unit4",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        },
+        {
+          "name": "XL Axiata",
+          "category": "",
+          "headcount": "",
+          "website": "",
+          "linkedin": "",
+          "careerPage": ""
+        }
+      ]
+    }
+  }
+}
