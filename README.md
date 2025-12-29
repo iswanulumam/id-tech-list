@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Total Companies](https://img.shields.io/badge/Total%20Companies-282-blue)
-![Completeness](https://img.shields.io/badge/Data%20Completeness-7.8%25-green)
+![Completeness](https://img.shields.io/badge/Data%20Completeness-19.1%25-green)
 
 </div>
 
@@ -16,9 +16,9 @@
 | Metrik | Jumlah |
 | :--- | :---: |
 | **Total Perusahaan** | **282** |
-| Dengan Website | 22 |
-| Dengan LinkedIn | 22 |
-| Dengan Career Page | 17 |
+| Dengan Website | 54 |
+| Dengan LinkedIn | 54 |
+| Dengan Career Page | 40 |
 
 ---
 
@@ -46,59 +46,59 @@
 
 | Company | Category | Headcount | Website | LinkedIn | Career Page |
 | :--- | :--- | :---: | :--- | :--- | :--- |
-| **Akulaku** | 💳 Fintech | 700+ | 🌐 [Akulaku](https://www.akulaku.com/) | 💼 [Akulaku](https://www.linkedin.com/company/akulakuindonesia/) | <sub>—</sub> |
+| **Akulaku** | 💳 Fintech | 700+ | 🌐 [Akulaku](https://www.akulaku.com/) | 💼 [Akulaku](https://www.linkedin.com/company/akulakuindonesia/) | 💼 [Akulaku](https://www.akulaku.com/careers) |
 | **Ajaib** | 📈 Investment | 500+ | 🌐 [Ajaib](https://ajaib.co.id/) | 💼 [Ajaib](https://www.linkedin.com/company/ajaib-id/) | 💼 [Ajaib](https://career.ajaib.co.id/) |
-| **Aruna** | ⚓ Maritime Tech | 500+ | 🌐 [Aruna](https://aruna.id/) | 💼 [Aruna](https://www.linkedin.com/company/aruna-indonesia/) | <sub>—</sub> |
-| **Alami** | 💳 Fintech | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Amartha** | 💳 Fintech | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Anteraja** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Alodokter** | 🏥 Health Care | <sub>—</sub> | 🌐 [Alodokter](https://www.alodokter.com/) | 💼 [Alodokter](https://www.linkedin.com/company/alodokter/) | <sub>—</sub> |
+| **Aruna** | ⚓ Maritime Tech | 500+ | 🌐 [Aruna](https://aruna.id/) | 💼 [Aruna](https://www.linkedin.com/company/aruna-indonesia/) | 💼 [Aruna](https://aruna.id/careers) |
+| **Alami** | 💳 Fintech | <sub>—</sub> | 🌐 [Alami](https://www.alami.id/) | 💼 [Alami](https://www.linkedin.com/company/alami-sharia/) | 💼 [Alami](https://www.alami.id/careers) |
+| **Amartha** | 💳 Fintech | <sub>—</sub> | 🌐 [Amartha](https://www.amartha.com/) | 💼 [Amartha](https://www.linkedin.com/company/amartha/) | 💼 [Amartha](https://www.amartha.com/careers) |
+| **Anteraja** | 🚚 Logistics | <sub>—</sub> | 🌐 [Anteraja](https://anteraja.id/) | 💼 [Anteraja](https://www.linkedin.com/company/anteraja/) | 💼 [Anteraja](https://anteraja.id/careers) |
+| **Alodokter** | 🏥 Health Care | <sub>—</sub> | 🌐 [Alodokter](https://www.alodokter.com/) | 💼 [Alodokter](https://www.linkedin.com/company/alodokter/) | 💼 [Alodokter](https://www.alodokter.com/careers) |
 | **Bukalapak** | 🛒 Ecommerce | 2800+ | 🌐 [Bukalapak](https://www.bukalapak.com/) | 💼 [Bukalapak](https://www.linkedin.com/company/pt-bukalapak-com/) | 💼 [Bukalapak](https://careers.bukalapak.com/) |
 | **Blibli** | 🛒 Ecommerce | 3300+ | 🌐 [Blibli](https://www.blibli.com/) | 💼 [Blibli](https://www.linkedin.com/company/blibli/) | 💼 [Blibli](https://careers.blibli.com/) |
-| **Bibit** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Cicil** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Bibit** | 📈 Investment | <sub>—</sub> | 🌐 [Bibit](https://bibit.id/) | 💼 [Bibit](https://www.linkedin.com/company/bibit-id/) | 💼 [Bibit](https://bibit.id/careers) |
+| **Cicil** | 💳 Fintech | <sub>—</sub> | 🌐 [Cicil](https://www.cicil.co.id/) | 💼 [Cicil](https://www.linkedin.com/company/cicil/) | <sub>—</sub> |
 | **Dana Indonesia** | 💳 Fintech | 1200+ | 🌐 [Dana Indonesia](https://www.dana.id/) | 💼 [Dana Indonesia](https://www.linkedin.com/company/dana-indonesia/) | 💼 [Dana Indonesia](https://www.dana.id/career) |
-| **Dagangan** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **eFishery** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **EdenFarm** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Flip** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Fazz** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Dagangan** | 🛒 Ecommerce | <sub>—</sub> | 🌐 [Dagangan](https://dagangan.com/) | 💼 [Dagangan](https://www.linkedin.com/company/dagangan/) | <sub>—</sub> |
+| **eFishery** | 🌾 Agritech | <sub>—</sub> | 🌐 [eFishery](https://efishery.com/) | 💼 [eFishery](https://www.linkedin.com/company/efishery/) | 💼 [eFishery](https://efishery.com/careers) |
+| **EdenFarm** | 🌾 Agritech | <sub>—</sub> | 🌐 [EdenFarm](https://edenfarm.id/) | 💼 [EdenFarm](https://www.linkedin.com/company/edenfarm/) | <sub>—</sub> |
+| **Flip** | 💳 Fintech | <sub>—</sub> | 🌐 [Flip](https://flip.id/) | 💼 [Flip](https://www.linkedin.com/company/flip-id/) | 💼 [Flip](https://flip.id/careers) |
+| **Fazz** | 💳 Fintech | <sub>—</sub> | 🌐 [Fazz](https://fazz.com/) | 💼 [Fazz](https://www.linkedin.com/company/fazz/) | 💼 [Fazz](https://fazz.com/careers) |
 | **Gojek** | 🚗 Ride Hailing | 25000+ | 🌐 [Gojek](https://www.gojek.com/en-id/) | 💼 [Gojek](https://www.linkedin.com/company/gojek/) | 💼 [Gojek](https://career.gojek.com/) |
-| **GudangAda** | 🏢 B2B Ecommerce | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Glints** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Home Credit Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **GudangAda** | 🏢 B2B Ecommerce | <sub>—</sub> | 🌐 [GudangAda](https://www.gudangada.com/) | 💼 [GudangAda](https://www.linkedin.com/company/gudangada/) | 💼 [GudangAda](https://www.gudangada.com/careers) |
+| **Glints** | 👥 HR Tech | <sub>—</sub> | 🌐 [Glints](https://glints.com/id) | 💼 [Glints](https://www.linkedin.com/company/glints/) | 💼 [Glints](https://glints.com/id/careers) |
+| **Home Credit Indonesia** | 💳 Fintech | <sub>—</sub> | 🌐 [Home Credit Indonesia](https://www.homecredit.co.id/) | 💼 [Home Credit Indonesia](https://www.linkedin.com/company/home-credit-indonesia/) | 💼 [Home Credit Indonesia](https://www.homecredit.co.id/careers) |
 | **Halodoc** | 🏥 Health Care | <sub>—</sub> | 🌐 [Halodoc](https://www.halodoc.com/) | 💼 [Halodoc](https://www.linkedin.com/company/halodoc/) | 💼 [Halodoc](https://careers.halodoc.com/) |
-| **Harian Kompas** | 📰 Publishing | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **IDN Media** | 📺 Media | <sub>—</sub> | 🌐 [IDN Media](https://www.idntimes.com/) | 💼 [IDN Media](https://www.linkedin.com/company/idn-media/) | <sub>—</sub> |
-| **INDODAX** | 🌐 Web3 | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Harian Kompas** | 📰 Publishing | <sub>—</sub> | 🌐 [Harian Kompas](https://www.kompas.com/) | 💼 [Harian Kompas](https://www.linkedin.com/company/kompas-gramedia/) | <sub>—</sub> |
+| **IDN Media** | 📺 Media | <sub>—</sub> | 🌐 [IDN Media](https://www.idntimes.com/) | 💼 [IDN Media](https://www.linkedin.com/company/idn-media/) | 💼 [IDN Media](https://www.idnmedia.com/careers) |
+| **INDODAX** | 🌐 Web3 | <sub>—</sub> | 🌐 [INDODAX](https://indodax.com/) | 💼 [INDODAX](https://www.linkedin.com/company/indodax/) | 💼 [INDODAX](https://indodax.com/careers) |
 | **J&T Express** | 🚚 Logistics | 6000+ | 🌐 [J&T Express](https://www.jet.co.id/) | 💼 [J&T Express](https://www.linkedin.com/company/pt--global-jet-express-j&t-express-/) | 💼 [J&T Express](https://jet.co.id/about/career) |
-| **JULO** | 📺 Media | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **kumparan** | 📺 Media | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **KreditPlus** | 💳 Fintech | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Kargo Technologies** | 🚚 Logistics | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Logisly** | 🚚 Logistics | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **majoo Indonesia** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Moladin** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Mapan** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Ninja Xpress** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Pinhome** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **JULO** | 📺 Media | <sub>—</sub> | 🌐 [JULO](https://www.julo.co.id/) | 💼 [JULO](https://www.linkedin.com/company/julo/) | <sub>—</sub> |
+| **kumparan** | 📺 Media | <sub>—</sub> | 🌐 [kumparan](https://kumparan.com/) | 💼 [kumparan](https://www.linkedin.com/company/kumparan/) | 💼 [kumparan](https://kumparan.com/careers) |
+| **KreditPlus** | 💳 Fintech | <sub>—</sub> | 🌐 [KreditPlus](https://www.kreditplus.com/) | 💼 [KreditPlus](https://www.linkedin.com/company/kreditplus/) | <sub>—</sub> |
+| **Kargo Technologies** | 🚚 Logistics | <sub>—</sub> | 🌐 [Kargo Technologies](https://kargo.tech/) | 💼 [Kargo Technologies](https://www.linkedin.com/company/kargo-technologies/) | 💼 [Kargo Technologies](https://kargo.tech/careers) |
+| **Logisly** | 🚚 Logistics | <sub>—</sub> | 🌐 [Logisly](https://logisly.com/) | 💼 [Logisly](https://www.linkedin.com/company/logisly/) | <sub>—</sub> |
+| **majoo Indonesia** | ☁️ SaaS | <sub>—</sub> | 🌐 [majoo Indonesia](https://majoo.id/) | 💼 [majoo Indonesia](https://www.linkedin.com/company/majoo/) | <sub>—</sub> |
+| **Moladin** | 🚙 Automotive | <sub>—</sub> | 🌐 [Moladin](https://moladin.com/) | 💼 [Moladin](https://www.linkedin.com/company/moladin/) | 💼 [Moladin](https://moladin.com/careers) |
+| **Mapan** | 🛒 Ecommerce | <sub>—</sub> | 🌐 [Mapan](https://mapan.com/) | 💼 [Mapan](https://www.linkedin.com/company/mapan/) | <sub>—</sub> |
+| **Ninja Xpress** | 🚚 Logistics | <sub>—</sub> | 🌐 [Ninja Xpress](https://www.ninjaxpress.co/) | 💼 [Ninja Xpress](https://www.linkedin.com/company/ninja-xpress/) | <sub>—</sub> |
+| **Pinhome** | 🏠 PropTech | <sub>—</sub> | 🌐 [Pinhome](https://pinhome.id/) | 💼 [Pinhome](https://www.linkedin.com/company/pinhome/) | 💼 [Pinhome](https://pinhome.id/careers) |
 | **OVO** | 💳 Fintech | 1500+ | 🌐 [OVO](https://www.ovo.id/) | 💼 [OVO](https://www.linkedin.com/company/visionetinternasional/) | 💼 [OVO](https://www.ovo.id/career) |
 | **Privy** | 🔐 Digital Identity | <sub>—</sub> | 🌐 [Privy](https://www.privy.id/) | 💼 [Privy](https://www.linkedin.com/company/privyid/) | 💼 [Privy](https://www.privy.id/careers) |
-| **Quipper** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Quipper** | 📚 EdTech | <sub>—</sub> | 🌐 [Quipper](https://www.quipper.com/id/) | 💼 [Quipper](https://www.linkedin.com/company/quipper/) | 💼 [Quipper](https://www.quipper.com/id/careers) |
 | **Ruangguru** | 📚 EdTech | <sub>—</sub> | 🌐 [Ruangguru](https://www.ruangguru.com/) | 💼 [Ruangguru](https://www.linkedin.com/company/ruangguru/) | 💼 [Ruangguru](https://careers.ruangguru.com/) |
-| **Sekolah.mu** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Sekolah.mu** | 📚 EdTech | <sub>—</sub> | 🌐 [Sekolah.mu](https://www.sekolah.mu/) | 💼 [Sekolah.mu](https://www.linkedin.com/company/sekolahmu/) | <sub>—</sub> |
 | **Shopee** | 💳 Fintech | 54000+ | 🌐 [Shopee](https://shopee.co.id/) | 💼 [Shopee](https://www.linkedin.com/company/shopee/) | 💼 [Shopee](https://careers.shopee.co.id/) |
-| **Stockbit** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **SiCepat** | 🚚 Logistics | <sub>—</sub> | 🌐 [SiCepat](https://www.sicepat.com/) | 💼 [SiCepat](https://www.linkedin.com/company/sicepat/) | <sub>—</sub> |
+| **Stockbit** | 📈 Investment | <sub>—</sub> | 🌐 [Stockbit](https://stockbit.com/) | 💼 [Stockbit](https://www.linkedin.com/company/stockbit/) | 💼 [Stockbit](https://stockbit.com/careers) |
+| **SiCepat** | 🚚 Logistics | <sub>—</sub> | 🌐 [SiCepat](https://www.sicepat.com/) | 💼 [SiCepat](https://www.linkedin.com/company/sicepat/) | 💼 [SiCepat](https://www.sicepat.com/careers) |
 | **Shipper** | 🚚 Logistics | <sub>—</sub> | 🌐 [Shipper](https://www.shipper.id/) | 💼 [Shipper](https://www.linkedin.com/company/shipper-id/) | 💼 [Shipper](https://careers.shipper.id/) |
 | **Sociolla** | 🛒 Ecommerce | <sub>—</sub> | 🌐 [Sociolla](https://www.sociolla.com/) | 💼 [Sociolla](https://www.linkedin.com/company/sociolla/) | 💼 [Sociolla](https://careers.sociolla.com/) |
-| **Sirclo** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Sirclo** | 🛒 Ecommerce | <sub>—</sub> | 🌐 [Sirclo](https://www.sirclo.com/) | 💼 [Sirclo](https://www.linkedin.com/company/sirclo/) | 💼 [Sirclo](https://www.sirclo.com/careers) |
 | **Traveloka** | ✈️ Travel | 3100+ | 🌐 [Traveloka](https://www.traveloka.com/en-id/) | 💼 [Traveloka](https://www.linkedin.com/company/traveloka/) | 💼 [Traveloka](https://www.traveloka.com/en-id/careers) |
 | **Tokopedia** | 🛒 Ecommerce | 8400+ | 🌐 [Tokopedia](https://www.tokopedia.com/) | 💼 [Tokopedia](https://www.linkedin.com/company/pt--tokopedia/) | 💼 [Tokopedia](https://www.tokopedia.com/careers) |
 | **Tiket** | ✈️ Travel | 1700+ | 🌐 [Tiket](https://www.tiket.com/) | 💼 [Tiket](https://www.linkedin.com/company/pt-global-tiket-network/) | 💼 [Tiket](https://careers.tiket.com/) |
-| **Ula** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Vidio** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
-| **Warung Pintar** | — | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> | <sub>—</sub> |
+| **Ula** | 🏢 B2B Ecommerce | <sub>—</sub> | 🌐 [Ula](https://ula.id/) | 💼 [Ula](https://www.linkedin.com/company/ula-id/) | <sub>—</sub> |
+| **Vidio** | 📺 Media | <sub>—</sub> | 🌐 [Vidio](https://www.vidio.com/) | 💼 [Vidio](https://www.linkedin.com/company/vidio/) | <sub>—</sub> |
+| **Warung Pintar** | 🏪 Retail Tech | <sub>—</sub> | 🌐 [Warung Pintar](https://warungpintar.co.id/) | 💼 [Warung Pintar](https://www.linkedin.com/company/warungpintar/) | <sub>—</sub> |
 | **Xendit** | 💳 Fintech | 800+ | 🌐 [Xendit](https://www.xendit.co/id/) | 💼 [Xendit](https://www.linkedin.com/company/xendit/) | 💼 [Xendit](https://www.xendit.co/en/careers/) |
 
 ---
